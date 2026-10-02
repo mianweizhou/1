@@ -1,13 +1,3 @@
-256529723	https://www.eeo.cn/s/a/?cid=256529723	Teacher Alex online classroom	Teacher: 956****325	Michael's Class 6
-256529759	https://www.eeo.cn/s/a/?cid=256529759	Dvyphonic	Teacher: 949****00	Emma Lesson 372
-256529795	https://www.eeo.cn/s/a/?cid=256529795	Teacher Sev 6 online classroom	Teacher: lengerdeme*****ail.com	Jack Zheng
-256529809	https://www.eeo.cn/s/a/?cid=256529809	Teacher Gel online classroom	Teacher: wabangel*****ail.com	Rocky
-256529831	https://www.eeo.cn/s/a/?cid=256529831	Teacher Sev 6 online classroom	Teacher: lengerdeme*****ail.com	Cherry
-256529877	https://www.eeo.cn/s/a/?cid=256529877	Teacher Sev 6 online classroom	Teacher: lengerdeme*****ail.com	Shella
-256529889	https://www.eeo.cn/s/a/?cid=256529889	Eden online classroom	Teacher: amirrasoolavi20*****ail.	Eden class
-256529919	https://www.eeo.cn/s/a/?cid=256529919	Teacher Sev 6 online classroom	Teacher: lengerdeme*****ail.com	Ricky
-256529943	https://www.eeo.cn/s/a/?cid=256529943	Cloud	Teacher: Riza	DoriQ9
-256530003	https://www.eeo.cn/s/a/?cid=256530003	Teacher Sev 10 online classroom	Teacher: savmarund*****ail.com	Rachel
 256530019	https://www.eeo.cn/s/a/?cid=256530019	Ethan online classroom	Teacher: 960****11	Alvin
 256530033	https://www.eeo.cn/s/a/?cid=256530033	Teacher Yen online classroom	Teacher: conjuradorutche*****ail.	Stephen's SUN-MON-TUES-WED-THURS(20:00)
 256530041	https://www.eeo.cn/s/a/?cid=256530041	Teacher Sev 10 online classroom	Teacher: savmarund*****ail.com	John
@@ -1198,3 +1188,13 @@
 256575465	https://www.eeo.cn/s/a/?cid=256575465	Nairee Kariz Reyes online classroom	Teacher: reyesnaireekar*****ail.c	festival park fun cool games
 256575485	https://www.eeo.cn/s/a/?cid=256575485	Teacher Hann online classroom	Teacher: 976****863	Tom~Kids
 256575567	https://www.eeo.cn/s/a/?cid=256575567	Steinway Malaysia - Zul online classroom	Teacher: 142****85	Test
+256575575	https://www.eeo.cn/s/a/?cid=256575575	Emiterio Domingo online classroom	Teacher: 956****075	11-STEM ONLINE
+256575579	https://www.eeo.cn/s/a/?cid=256575579	Emiterio Domingo online classroom	Teacher: 956****075	11-HUMSS ONLINE
+256575587	https://www.eeo.cn/s/a/?cid=256575587	Ainara Y. Navarrete Hdez online classroom	Teacher: ainarayami*****ail.com	Ainara Yamil Navarrete Hernández
+256575619	https://www.eeo.cn/s/a/?cid=256575619	Emiterio Domingo online classroom	Teacher: 956****075	11-STEM/HUMSS ONLINE
+256575721	https://www.eeo.cn/s/a/?cid=256575721	Galaxy	Teacher: 草莓	AMY3627
+256575779	https://www.eeo.cn/s/a/?cid=256575779	Learn English with Teacher Margie	Teacher: 662****466	Rachel.05.OxDis.U8
+256575885	https://www.eeo.cn/s/a/?cid=256575885	Galaxy	Teacher: 草莓	JIMMY8
+256575911	https://www.eeo.cn/s/a/?cid=256575911	Tiếng Việt Ơi	Teacher: Vũ Phi Hồng	Abdul manan & Hồng Phi Vũ
+256575957	https://www.eeo.cn/s/a/?cid=256575957	奶片	Teacher: 159****5158	3A春季周六9:30-11:30
+256575977	https://www.eeo.cn/s/a/?cid=256575977	e堂好课	Teacher: 刘璇	e堂好课24春三年级语文

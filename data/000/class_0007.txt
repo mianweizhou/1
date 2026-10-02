@@ -1,4 +1,3 @@
-252812611	https://www.eeo.cn/s/a/?cid=252812611	0063-9064876914 online classroom	Teacher: 906****914	andrew
 252812669	https://www.eeo.cn/s/a/?cid=252812669	Teacher Hansel online classroom	Teacher: 960****314	Teacher Hansel
 252812721	https://www.eeo.cn/s/a/?cid=252812721	Alex Ivan online classroom	Teacher: ivanalex777.*****ail.com	nnnjjn
 252812757	https://www.eeo.cn/s/a/?cid=252812757	Jay online classroom	Teacher: 956****267	jay
@@ -1198,3 +1197,4 @@
 252905867	https://www.eeo.cn/s/a/?cid=252905867	Teacher Eda online classroom	Teacher: 533****314	Ava 1- 25.12
 252905901	https://www.eeo.cn/s/a/?cid=252905901	Dunja online classroom	Teacher: 648****13	Nick25-12-2023
 252905959	https://www.eeo.cn/s/a/?cid=252905959	K Studio	Teacher: 186****9663	2025_雏鹰班_K老师数学思维课
+252905975	https://www.eeo.cn/s/a/?cid=252905975	akka	Teacher: 955****754	Hans

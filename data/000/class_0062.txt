@@ -1,13 +1,3 @@
-256230045	https://www.eeo.cn/s/a/?cid=256230045	Niloo online classroom	Teacher: nilooset*****ail.com	Ella
-256230247	https://www.eeo.cn/s/a/?cid=256230247	teacher ken online classroom	Teacher: 945****920	zoeeeee
-256230287	https://www.eeo.cn/s/a/?cid=256230287	小象超能	Teacher: 班主任-孙思梦	弈小象围棋测评（琦琦老师）
-256230289	https://www.eeo.cn/s/a/?cid=256230289	aireenegalo*****ail.com online classroom	Teacher: aireenegalo*****ail.com	Demo Last Chance
-256230291	https://www.eeo.cn/s/a/?cid=256230291	袁老师英语小课堂	Teacher: 138****8127	2024高一春季线上班
-256230327	https://www.eeo.cn/s/a/?cid=256230327	Nguyễn Phúc Nguyên online classroom	Teacher: 382****26	R7B.048777(3)
-256230355	https://www.eeo.cn/s/a/?cid=256230355	Natasa Golubovic	Teacher: 676***27	hana
-256230363	https://www.eeo.cn/s/a/?cid=256230363	Teacher Kassy online classroom	Teacher: kassandrawayne*****ail.c	Demo class
-256230393	https://www.eeo.cn/s/a/?cid=256230393	Arvee online	Teacher: 948****040	lucky 3 feb 21 24
-256230435	https://www.eeo.cn/s/a/?cid=256230435	创新河马教育	Teacher: 孙丽强	孙老师六年级寒假录课
 256230483	https://www.eeo.cn/s/a/?cid=256230483	袁老师英语小课堂	Teacher: 138****8127	2024高二春季线上班
 256230513	https://www.eeo.cn/s/a/?cid=256230513	T — Jay online classroom	Teacher: 200****8613	Nora9's Class
 256230541	https://www.eeo.cn/s/a/?cid=256230541	Sachiv A/L Suresh online classroom	Teacher: 103****10	Samina
@@ -1198,3 +1188,13 @@
 256292283	https://www.eeo.cn/s/a/?cid=256292283	안다맘 online classroom	Teacher: 109****020	제니 9yrs
 256292307	https://www.eeo.cn/s/a/?cid=256292307	Anne online classroom	Teacher: 918****400	April's 682 session
 256292311	https://www.eeo.cn/s/a/?cid=256292311	Teacher Bhing online classroom	Teacher: bhing0513*****ail.com	9th class
+256292321	https://www.eeo.cn/s/a/?cid=256292321	海外同步课程辅导平台	Teacher: Linda	黄梓轩-生物-王老师
+256292355	https://www.eeo.cn/s/a/?cid=256292355	tr.winpapaaung*****ail.c online classroom	Teacher: tr.winpapaaung*****ail.c	Mrs.Amanda class
+256292381	https://www.eeo.cn/s/a/?cid=256292381	Teacher Vanessa online classroom	Teacher: 991****333	Tony's Class Feb 2024
+256292483	https://www.eeo.cn/s/a/?cid=256292483	Tr. Jen online classroom	Teacher: otjennife*****ail.com	Jen
+256292487	https://www.eeo.cn/s/a/?cid=256292487	Teacher Sheen online classroom	Teacher: 968****767	jack
+256292501	https://www.eeo.cn/s/a/?cid=256292501	Teacher Nica online classroom	Teacher: 969****748	Otto7
+256292535	https://www.eeo.cn/s/a/?cid=256292535	Gaddiel Jian online classroom	Teacher: gaddielvillanueva*****ai	Practice Class
+256292551	https://www.eeo.cn/s/a/?cid=256292551	Teacher Loren 3 online classroom	Teacher: joealcid*****ail.com	Nick 02/22/2024
+256292573	https://www.eeo.cn/s/a/?cid=256292573	Teacher Fie online classroom	Teacher: 921****228	Betty 2024
+256292581	https://www.eeo.cn/s/a/?cid=256292581	DSL VIP Class online classroom	Teacher: 975****831	SARAH LUCKY VIP

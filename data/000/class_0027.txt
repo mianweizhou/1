@@ -1,7 +1,3 @@
-254113959	https://www.eeo.cn/s/a/?cid=254113959	广东省习悦教育培训中心	Teacher: Shuang Hou	G2-测评-叶其霖
-254113997	https://www.eeo.cn/s/a/?cid=254113997	Teacher Steph (1) online classroom	Teacher: 965****504	Kyle, Karen, and Kathy's English Class
-254114037	https://www.eeo.cn/s/a/?cid=254114037	Teacher Paul	Teacher: 928****198	Susu Student Classroom
-254114195	https://www.eeo.cn/s/a/?cid=254114195	上海外国语大学松江外国语学校	Teacher: 薛婧璟	2023级七年级11&12班-英语
 254114241	https://www.eeo.cn/s/a/?cid=254114241	上海外国语大学松江外国语学校	Teacher: 徐佳	2023级七年级13&14班-英语
 254114251	https://www.eeo.cn/s/a/?cid=254114251	TEACHER M online classroom	Teacher: 945****725	Alex Class 21:00
 254114285	https://www.eeo.cn/s/a/?cid=254114285	Truong Bich Tuyen	Teacher: 907****15	Lớp 1:1 chị Lan Chi
@@ -1198,3 +1194,7 @@
 254171651	https://www.eeo.cn/s/a/?cid=254171651	Teacher Ellaine online classroom	Teacher: myrnasabanal*****ail.com	clark
 254171661	https://www.eeo.cn/s/a/?cid=254171661	Dunja online classroom	Teacher: 648****13	Harry 16/1/2024
 254171703	https://www.eeo.cn/s/a/?cid=254171703	Dragana Jankovic	Teacher: 658****25	Joanna10
+254171707	https://www.eeo.cn/s/a/?cid=254171707	Dragana Jankovic	Teacher: 658****25	blue4bj
+254171791	https://www.eeo.cn/s/a/?cid=254171791	aponte_humber*****ntebel online classroom	Teacher: aponte_humber*****ntebel	ATC
+254171993	https://www.eeo.cn/s/a/?cid=254171993	E-link名师在线	Teacher: Emma	Elink Mia
+254172013	https://www.eeo.cn/s/a/?cid=254172013	Teacher Chil ♥️ online classroom	Teacher: jessie.giganta*****ail.c	class

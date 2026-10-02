@@ -1,13 +1,3 @@
-257286453	https://www.eeo.cn/s/a/?cid=257286453	teacher Esabel online classroom	Teacher: 920****348	Teach sab
-257286489	https://www.eeo.cn/s/a/?cid=257286489	Teacher Filip online classroom	Teacher: 752***00	Alice_2024.03.09
-257286639	https://www.eeo.cn/s/a/?cid=257286639	LET'S GO ENGLISH	Teacher: 945****077	Sammi
-257286647	https://www.eeo.cn/s/a/?cid=257286647	wenef*****ail.com online classroom	Teacher: wenef*****ail.com	445
-257286683	https://www.eeo.cn/s/a/?cid=257286683	Teacher Igo online classroom	Teacher: teacherig*****ail.com	Victoria's classroom (March)
-257286795	https://www.eeo.cn/s/a/?cid=257286795	星火教育红岭校区（深圳关内）	Teacher: 刘宝金	2024B初二逻辑素养燎原S小组课1D(2班)
-257286861	https://www.eeo.cn/s/a/?cid=257286861	朵艾特音樂網校	Teacher: 劉老師	一凡钢琴课
-257286931	https://www.eeo.cn/s/a/?cid=257286931	Wen.dy online classroom	Teacher: 906****591	Graceclass23
-257286937	https://www.eeo.cn/s/a/?cid=257286937	Teacher online classroom	Teacher: saludesmarichil*****ail.	Eric7
-257287035	https://www.eeo.cn/s/a/?cid=257287035	Teacher Jack online classroom	Teacher: batislaonjackie*****ail.	Ryan lesson
 257287139	https://www.eeo.cn/s/a/?cid=257287139	快乐学习	Teacher: 勾股定理	24五春周六晚上
 257287163	https://www.eeo.cn/s/a/?cid=257287163	Teacher Cel online classroom	Teacher: eslmdavid20*****ail.com	Annabelle
 257287225	https://www.eeo.cn/s/a/?cid=257287225	Teacher Harisse Nadine online classroom	Teacher: 966****662	OLIVIA1
@@ -1198,3 +1188,13 @@
 257365649	https://www.eeo.cn/s/a/?cid=257365649	启德星学社	Teacher: 王怡清	张骞文课程
 257365657	https://www.eeo.cn/s/a/?cid=257365657	三人行学堂	Teacher: 李佩	24春~初一英语1班-雅琴老师
 257365697	https://www.eeo.cn/s/a/?cid=257365697	三人行学堂	Teacher: 李佩	24春~初一语文1班-付老师
+257365809	https://www.eeo.cn/s/a/?cid=257365809	Teacher Kim	Teacher: 953****631	George7
+257365819	https://www.eeo.cn/s/a/?cid=257365819	Teacher Ana online classroom	Teacher: 916****653	Teacher Ana - Erlyn
+257365851	https://www.eeo.cn/s/a/?cid=257365851	Deamon_Kurtz online classroom	Teacher: 937****04	Cathy
+257365955	https://www.eeo.cn/s/a/?cid=257365955	Teacher Dale online classroom	Teacher: 922****685	Freetalk 3
+257366023	https://www.eeo.cn/s/a/?cid=257366023	Teacher Salin online classroom	Teacher: 601****08	Sunny
+257366077	https://www.eeo.cn/s/a/?cid=257366077	Maria-Kashif online classroom	Teacher: maria.saleem*****hoo.com	English Lesson
+257366101	https://www.eeo.cn/s/a/?cid=257366101	robledodesire*****ail.co online classroom	Teacher: robledodesire*****ail.co	Monday
+257366111	https://www.eeo.cn/s/a/?cid=257366111	975650980chien online classroom	Teacher: 975****80	l
+257366123	https://www.eeo.cn/s/a/?cid=257366123	Teacher Halee online classroom	Teacher: wifamilyo*****ail.com	Elsa (Grandparents Home Classroom)
+257366155	https://www.eeo.cn/s/a/?cid=257366155	Kate online classroom	Teacher: kate.amielina.19*****ail	Oliver

@@ -1,13 +1,3 @@
-256348983	https://www.eeo.cn/s/a/?cid=256348983	Jo online classroom	Teacher: jojo0702*****ail.com	jo
-256349005	https://www.eeo.cn/s/a/?cid=256349005	Amz online classroom	Teacher: 985****033	Eloise2
-256349281	https://www.eeo.cn/s/a/?cid=256349281	天生慧作文	Teacher: 魔镜	魔镜【24春】二年级5:30-7:00
-256349463	https://www.eeo.cn/s/a/?cid=256349463	芝麻街英语	Teacher: 经开Annie孙冰艳	经开 N1-002
-256349595	https://www.eeo.cn/s/a/?cid=256349595	Teacher Thonie online classroom	Teacher: 963****319	NA 2024
-256349619	https://www.eeo.cn/s/a/?cid=256349619	贝塔编程	Teacher: 王艺臻	周六13:30领航提高班（王艺臻）
-256349683	https://www.eeo.cn/s/a/?cid=256349683	HappyTeaching	Teacher: Rag	Emma
-256349765	https://www.eeo.cn/s/a/?cid=256349765	Teacher Moore online classroom	Teacher: 930****814	Bunny 17
-256349807	https://www.eeo.cn/s/a/?cid=256349807	Teacher Chicky online classroom	Teacher: 926****717	Anna's Class
-256349921	https://www.eeo.cn/s/a/?cid=256349921	mercadoshirley*****hoo.c online classroom	Teacher: mercadoshirley*****hoo.c	tiger
 256349925	https://www.eeo.cn/s/a/?cid=256349925	ROMROM online classroom	Teacher: 984****631	刘怡然 I 10
 256349929	https://www.eeo.cn/s/a/?cid=256349929	Teacher Dhina Ree online classroom	Teacher: drwmacara*****ep.edu.ph	Demonstration Teaching
 256349983	https://www.eeo.cn/s/a/?cid=256349983	Teacher Paul	Teacher: 921****517	DaisyC Student Classroom
@@ -1198,3 +1188,13 @@
 256408165	https://www.eeo.cn/s/a/?cid=256408165	Teacher Melodie♥️ online classroom	Teacher: jecelmaebagnol20*****ail	Victors Classroom
 256408175	https://www.eeo.cn/s/a/?cid=256408175	梓龙 online classroom	Teacher: 808****599	all about skibidi toilet
 256408177	https://www.eeo.cn/s/a/?cid=256408177	PI FOR MOT	Teacher: 文宇老师	【24春】三年级新生入学测评2月28日备用群
+256408179	https://www.eeo.cn/s/a/?cid=256408179	Law Shen online classroom	Teacher: 909****124	FISH(1)
+256408217	https://www.eeo.cn/s/a/?cid=256408217	Teacher Chen 11 (#486) online classroom	Teacher: 908****486	Kun kun 11( (486)
+256408273	https://www.eeo.cn/s/a/?cid=256408273	Teacher Chen 11 (#486) online classroom	Teacher: 908****486	Merrick 11 (486)
+256408291	https://www.eeo.cn/s/a/?cid=256408291	PI FOR MOT	Teacher: 文宇老师	【24春】四年级新生入学测评2月28日备用群
+256408299	https://www.eeo.cn/s/a/?cid=256408299	Galaxy	Teacher: 夏天	James
+256408337	https://www.eeo.cn/s/a/?cid=256408337	liza online classroom	Teacher: 977****418	EITO- class
+256408363	https://www.eeo.cn/s/a/?cid=256408363	Studio Education	Teacher: Jessie HU	Attica's online class
+256408451	https://www.eeo.cn/s/a/?cid=256408451	liza online classroom	Teacher: 915****701	HERMAN-March-June class
+256408553	https://www.eeo.cn/s/a/?cid=256408553	LET'S GO ENGLISH	Teacher: 964****386	Ileana
+256408571	https://www.eeo.cn/s/a/?cid=256408571	Teacher Cath 5 online classroom	Teacher: gloriallander*****ail.co	Elsa5992_class

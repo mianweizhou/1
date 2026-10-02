@@ -1,11 +1,3 @@
-255754717	https://www.eeo.cn/s/a/?cid=255754717	Teacher Cheng online classroom	Teacher: 915****424	Joy and Cath
-255754731	https://www.eeo.cn/s/a/?cid=255754731	ty01	Teacher: 李佩琳	姜宇晨高三生物
-255754749	https://www.eeo.cn/s/a/?cid=255754749	虞城县星贺膜结构工程有限公司	Teacher: 175****6110	孙涛
-255754753	https://www.eeo.cn/s/a/?cid=255754753	Teacher Yna online classroom	Teacher: 935****010	ynaaa
-255754783	https://www.eeo.cn/s/a/?cid=255754783	nww*****tlook.com online classroom	Teacher: nww*****tlook.com	Class 1 Z
-255754799	https://www.eeo.cn/s/a/?cid=255754799	Teacher Carrie online classroom	Teacher: 659****19	Jinghao's Class 2
-255754821	https://www.eeo.cn/s/a/?cid=255754821	Teacher Yna online classroom	Teacher: 935****010	yynaa
-255754837	https://www.eeo.cn/s/a/?cid=255754837	Teacher Carrie online classroom	Teacher: 659****19	Elsa's Class 7
 255754847	https://www.eeo.cn/s/a/?cid=255754847	Zara's company	Teacher: 917****337	Abdul's Class
 255754875	https://www.eeo.cn/s/a/?cid=255754875	choy online classroom	Teacher: 945****557	Una Lesson 55
 255754889	https://www.eeo.cn/s/a/?cid=255754889	choy online classroom	Teacher: 945****557	Xigua Lesson 56
@@ -252,7 +244,6 @@
 255767773	https://www.eeo.cn/s/a/?cid=255767773	jackie online classroom	Teacher: 945****416	Austin's English class 2
 255767819	https://www.eeo.cn/s/a/?cid=255767819	人大附中西山学校	Teacher: 薛丽芳	AP CSA
 255767857	https://www.eeo.cn/s/a/?cid=255767857	Haeun jon online classroom	Teacher: 105****123	qestion
-255767887	https://www.eeo.cn/s/a/?cid=255767887	Edgardo online classroom	Teacher: 412****424	John
 255767963	https://www.eeo.cn/s/a/?cid=255767963	Jack online classroom	Teacher: 505****865	Joshua
 255767993	https://www.eeo.cn/s/a/?cid=255767993	RUZEL CINCO online classroom	Teacher: 951****309	SKY CLASS
 255768007	https://www.eeo.cn/s/a/?cid=255768007	cris15 online classroom	Teacher: 916****284	Bianca
@@ -1198,3 +1189,12 @@
 255816845	https://www.eeo.cn/s/a/?cid=255816845	SMG	Teacher: 638****13	14. Dora Special
 255816869	https://www.eeo.cn/s/a/?cid=255816869	Miller online classroom	Teacher: 618****43	okok
 255817075	https://www.eeo.cn/s/a/?cid=255817075	anja.jovannovi*****ail.c online classroom	Teacher: anja.jovannovi*****ail.c	Luca5
+255817079	https://www.eeo.cn/s/a/?cid=255817079	정율사관 온라인	Teacher: 장윤동-1	승현이 승재
+255817083	https://www.eeo.cn/s/a/?cid=255817083	好好	Teacher: 150****5365	1
+255817243	https://www.eeo.cn/s/a/?cid=255817243	doknogug*****fum.com online classroom	Teacher: doknogug*****fum.com	TUAN MINH
+255817279	https://www.eeo.cn/s/a/?cid=255817279	Teacher Anna (Temp) online classroom	Teacher: josefanormacru*****ail.c	Tom’s Class (5)
+255817295	https://www.eeo.cn/s/a/?cid=255817295	Mark	Teacher: 199****2658	2024·寒·初一 9:00-11:00
+255817311	https://www.eeo.cn/s/a/?cid=255817311	Jack老师的在线英语课堂	Teacher: 155****9491	昕悦加油站~
+255817319	https://www.eeo.cn/s/a/?cid=255817319	Lily online classroom	Teacher: hcy06*****ps.ntpc.edu.tw	上課班 2
+255817347	https://www.eeo.cn/s/a/?cid=255817347	Gina online classroom	Teacher: 839****75	test
+255817349	https://www.eeo.cn/s/a/?cid=255817349	Teacher Anna (Temp) online classroom	Teacher: josefanormacru*****ail.c	John’s Class (29)

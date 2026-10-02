@@ -1,13 +1,3 @@
-257803925	https://www.eeo.cn/s/a/?cid=257803925	Josh online classroom	Teacher: 755****161	Josh - William 英语课
-257803973	https://www.eeo.cn/s/a/?cid=257803973	Uche 3rd Account online classroom	Teacher: 977****530	Millie Lesson 59
-257803975	https://www.eeo.cn/s/a/?cid=257803975	Haven online classroom	Teacher: kvalencerina*****ail.com	RUBY
-257804005	https://www.eeo.cn/s/a/?cid=257804005	Uche 3rd Account online classroom	Teacher: 977****530	Una Lesson 65
-257804041	https://www.eeo.cn/s/a/?cid=257804041	Teacher Shawn online classroom	Teacher: 354****84	Elle Chen-Cyan
-257804153	https://www.eeo.cn/s/a/?cid=257804153	YY	Teacher: Jessie	Trial class Casey-Eva
-257804345	https://www.eeo.cn/s/a/?cid=257804345	来说英语外教课	Teacher: 155****9467	Eliana's Course- Cecile
-257804417	https://www.eeo.cn/s/a/?cid=257804417	marilita.rivera*****ail. online classroom	Teacher: marilita.rivera*****ail.	Shirley 11
-257804439	https://www.eeo.cn/s/a/?cid=257804439	Etutor	Teacher: Etutor	Nhat Vy 150414_Teacher Luz
-257804471	https://www.eeo.cn/s/a/?cid=257804471	上海市宝山区实验小学	Teacher: 张婷	榫卯实验班
 257804525	https://www.eeo.cn/s/a/?cid=257804525	Uness Community	Teacher: 819***93	best friends
 257804619	https://www.eeo.cn/s/a/?cid=257804619	Teacher Eva online classroom	Teacher: 927****053	Luna Regular Class -Reading & Phonics
 257804691	https://www.eeo.cn/s/a/?cid=257804691	Teacher Nova online classroom	Teacher: novaandal*****ped.gov.ph	Hank's Class
@@ -1198,3 +1188,13 @@
 257853567	https://www.eeo.cn/s/a/?cid=257853567	Teacher Gennelyn online classroom	Teacher: 936****701	demi
 257853605	https://www.eeo.cn/s/a/?cid=257853605	Icon Consult	Teacher: 718****95	Jason
 257853623	https://www.eeo.cn/s/a/?cid=257853623	明来童趣	Teacher: 133****1843	323-Seven
+257853701	https://www.eeo.cn/s/a/?cid=257853701	翼鸥集团	Teacher: EEO学习助手	用户体验设计中心
+257853727	https://www.eeo.cn/s/a/?cid=257853727	EARIST	Teacher: Sheila Marie M. Matias	SOFTENG2 BSCS 3A
+257853785	https://www.eeo.cn/s/a/?cid=257853785	ENGLISH CLASS	Teacher: Monica	Hanna,Becca
+257853817	https://www.eeo.cn/s/a/?cid=257853817	EARIST	Teacher: Sheila Marie M. Matias	SOFENGLA BSCS 3A
+257853835	https://www.eeo.cn/s/a/?cid=257853835	Quang Huy online classroom	Teacher: huynq210220*****ail.com	abc
+257853873	https://www.eeo.cn/s/a/?cid=257853873	nguyenhaanh2005*****ail. online classroom	Teacher: nguyenhaanh2005*****ail.	Lớp Demo
+257853911	https://www.eeo.cn/s/a/?cid=257853911	LET'S GO ENGLISH	Teacher: 950****855	Uny
+257853945	https://www.eeo.cn/s/a/?cid=257853945	EARIST	Teacher: Sheila Marie M. Matias	SOFENGLA BSCS 3B
+257853983	https://www.eeo.cn/s/a/?cid=257853983	KYLE	Teacher: Kyle	Med Lab's Learning Assisted Course
+257854005	https://www.eeo.cn/s/a/?cid=257854005	EARIST	Teacher: Sheila Marie M. Matias	CSINTERN BSCS 4A

@@ -1,9 +1,3 @@
-254674129	https://www.eeo.cn/s/a/?cid=254674129	Ielts English	Teacher: 150****6500	子健雅思口语
-254674167	https://www.eeo.cn/s/a/?cid=254674167	0063-9942641835 online classroom	Teacher: 994****835	ZoeHEB
-254674173	https://www.eeo.cn/s/a/?cid=254674173	Teacher Jane online classroom	Teacher: justinelincuna*****ail.c	Cassie's class 1/24 @5:30pm
-254674391	https://www.eeo.cn/s/a/?cid=254674391	7790166*****.com online classroom	Teacher: 949****030	Nicole-Teacher An
-254674427	https://www.eeo.cn/s/a/?cid=254674427	优学	Teacher: 齐老师	2024春数学2
-254674467	https://www.eeo.cn/s/a/?cid=254674467	Teacher Mac online classroom	Teacher: magic202311*****3.com	Teacher Stef
 254674477	https://www.eeo.cn/s/a/?cid=254674477	优学	Teacher: 齐老师	2025寒数学8
 254674609	https://www.eeo.cn/s/a/?cid=254674609	耀华国际教育学校广州校区	Teacher: Ivy.Peng	23-24 S2 G3B CAL Ivy Peng
 254674869	https://www.eeo.cn/s/a/?cid=254674869	Nhung online classroom	Teacher: tuyetnhung04*****ail.com	134
@@ -1198,3 +1192,9 @@
 254723949	https://www.eeo.cn/s/a/?cid=254723949	Rozel online classroom	Teacher: zyrolmoreno*****ail.com	totot
 254723955	https://www.eeo.cn/s/a/?cid=254723955	0084-819995475 online classroom	Teacher: 819****75	thu
 254723957	https://www.eeo.cn/s/a/?cid=254723957	Joy online classroom	Teacher: upkidzj*****ail.com	M093 Kevin's Classroom
+254724063	https://www.eeo.cn/s/a/?cid=254724063	Nick online classroom	Teacher: 691****42	Alvin7
+254724099	https://www.eeo.cn/s/a/?cid=254724099	Teacher Bless online classroom	Teacher: 985****939	Stacey-Adult
+254724261	https://www.eeo.cn/s/a/?cid=254724261	MindX	Teacher: HCM-PVĐ.Teacher001	PVĐ-JSA01-HB
+254724511	https://www.eeo.cn/s/a/?cid=254724511	韩老师工作室	Teacher: 韩老师Ann	2024寒假六2班
+254724689	https://www.eeo.cn/s/a/?cid=254724689	Teacher Thea online classroom	Teacher: vadlitthea*****ail.com	English Class
+254724701	https://www.eeo.cn/s/a/?cid=254724701	前海大新校区	Teacher: 林永浪	林永浪英语1B-1.25

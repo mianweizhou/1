@@ -1,11 +1,3 @@
-255301883	https://www.eeo.cn/s/a/?cid=255301883	陕西省西咸新区秦汉中学	Teacher: 张瑜	G2112春来十二班
-255302003	https://www.eeo.cn/s/a/?cid=255302003	ANGEL LANGUAGE TUTORIAL SERVICES	Teacher: 968****873	Eric 2024
-255302029	https://www.eeo.cn/s/a/?cid=255302029	绿色教育	Teacher: 崔俊蕊	楷莹炜杰录课
-255302063	https://www.eeo.cn/s/a/?cid=255302063	ecuskids成长中心	Teacher: 刘佰涛Robert	2024年寒假集训-写作集训-Robert
-255302077	https://www.eeo.cn/s/a/?cid=255302077	沈阳华英教育	Teacher: 139****2303	新博雅
-255302175	https://www.eeo.cn/s/a/?cid=255302175	Amir online classroom	Teacher: sorkhani.am*****ail.com	Persian class 3
-255302301	https://www.eeo.cn/s/a/?cid=255302301	ecuskids成长中心	Teacher: 王欣笛Cindy	JK Cindy王欣笛周六午KBS
-255302319	https://www.eeo.cn/s/a/?cid=255302319	Teacher Wen online classroom	Teacher: dywendz*****ail.com	Mollyclass09
 255302349	https://www.eeo.cn/s/a/?cid=255302349	Teacher Wen online classroom	Teacher: dywendz*****ail.com	Mollyclass10
 255302375	https://www.eeo.cn/s/a/?cid=255302375	Teacher Justine online classroom	Teacher: 909****494	justine
 255302379	https://www.eeo.cn/s/a/?cid=255302379	Erika online classroom	Teacher: akiregolini*****ail.com	Jason
@@ -1198,3 +1190,11 @@
 255353505	https://www.eeo.cn/s/a/?cid=255353505	星火教育红岭校区（深圳关内）	Teacher: 刘宝金	2024A初三自然探究Ⅰ燎原小组课2B(3班)
 255353543	https://www.eeo.cn/s/a/?cid=255353543	一对一专业辅导	Teacher: 科学周老师	n677 范雨欣
 255353549	https://www.eeo.cn/s/a/?cid=255353549	麦老师英语工作室	Teacher: 麦老师Mickey	Mickey寒假二期PET Lesson3
+255353621	https://www.eeo.cn/s/a/?cid=255353621	前海大新校区	Teacher: 李锐	李锐化学2B-2.3
+255353623	https://www.eeo.cn/s/a/?cid=255353623	在线素质课堂	Teacher: 翟秀玉 Krystal	薛淏元1V1
+255353677	https://www.eeo.cn/s/a/?cid=255353677	麦老师英语工作室	Teacher: 麦老师Mickey	Mickey寒假二期KET Lesson2
+255353707	https://www.eeo.cn/s/a/?cid=255353707	麦老师英语工作室	Teacher: 麦老师Mickey	Mickey寒假二期KET Lesson3
+255353789	https://www.eeo.cn/s/a/?cid=255353789	上海雨睿科技有限公司	Teacher: 152****3987	段
+255353881	https://www.eeo.cn/s/a/?cid=255353881	WeIP Education	Teacher: Mr Jack	2024 F3 BC THU 7.15pm Mr.Jack 独中
+255353887	https://www.eeo.cn/s/a/?cid=255353887	KHIM online classroom	Teacher: 936****010	DEMO CLASS _ CANDY
+255354013	https://www.eeo.cn/s/a/?cid=255354013	魔力数学	Teacher: 数学高老师	张贺璌一对一

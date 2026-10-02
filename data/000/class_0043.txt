@@ -1,10 +1,3 @@
-255030953	https://www.eeo.cn/s/a/?cid=255030953	Tchr Richelle online classroom	Teacher: 991****564	Erik51 / jan29
-255030989	https://www.eeo.cn/s/a/?cid=255030989	Teacher Anna online classroom	Teacher: 782****927	Emma 2024
-255031035	https://www.eeo.cn/s/a/?cid=255031035	BackUp classroom online classroom	Teacher: 951****766	Steven56 / jan29
-255031045	https://www.eeo.cn/s/a/?cid=255031045	学思行在线教育	Teacher: 马雨	1.29郭冉昊面试需试讲
-255031059	https://www.eeo.cn/s/a/?cid=255031059	Abbie online classroom	Teacher: 951****69	Yvan
-255031097	https://www.eeo.cn/s/a/?cid=255031097	Best English	Teacher: 136****2726	MIA MARY
-255031115	https://www.eeo.cn/s/a/?cid=255031115	Teacher Igo online classroom	Teacher: teacherig*****ail.com	Victoria's classroom (February)
 255031275	https://www.eeo.cn/s/a/?cid=255031275	joana.reyes04*****ail.co online classroom	Teacher: joana.reyes04*****ail.co	19:00 Alice and Elisa
 255031363	https://www.eeo.cn/s/a/?cid=255031363	Teacher Sam online classroom	Teacher: for01games*****ail.com	Andy Hu ❤
 255031365	https://www.eeo.cn/s/a/?cid=255031365	Claire online classroom	Teacher: 919****482	Me
@@ -1198,3 +1191,10 @@
 255081435	https://www.eeo.cn/s/a/?cid=255081435	Teacher Lory IV online classroom	Teacher: 946****212	ADE 3
 255081481	https://www.eeo.cn/s/a/?cid=255081481	青青禾苗	Teacher: 趣芽Sparkle老师	Sparkle老师课程
 255081601	https://www.eeo.cn/s/a/?cid=255081601	WeIP Education	Teacher: Mr Ayden	2025 F5 SN(BI) TUES 7.45PM MR.AYDEN
+255081627	https://www.eeo.cn/s/a/?cid=255081627	Fighting自习室	Teacher: 韩嘉欣	初三
+255081651	https://www.eeo.cn/s/a/?cid=255081651	0063-9151910275 online classroom	Teacher: 915****275	Kiki
+255081671	https://www.eeo.cn/s/a/?cid=255081671	0063-9151910275 online classroom	Teacher: 915****275	Kimi
+255081675	https://www.eeo.cn/s/a/?cid=255081675	1v1教育	Teacher: 康康	常峰瑞G3试听课
+255081725	https://www.eeo.cn/s/a/?cid=255081725	Ire's VerbalBoost	Teacher: 975****344	Mickey's Classroom
+255081727	https://www.eeo.cn/s/a/?cid=255081727	韩丽老师的工作室	Teacher: 钱老师	六年级春周三晚数学课
+255081777	https://www.eeo.cn/s/a/?cid=255081777	课堂在线	Teacher: Julia1.30充值600	小方英语

@@ -1,9 +1,3 @@
-254608313	https://www.eeo.cn/s/a/?cid=254608313	【正常】杭州青少年活动中心	Teacher: 郭子涵	W1C02-1马克笔
-254608423	https://www.eeo.cn/s/a/?cid=254608423	【正常】杭州青少年活动中心	Teacher: 郭子涵	W1C03-1马克笔
-254608445	https://www.eeo.cn/s/a/?cid=254608445	Teacher Ron online classroom	Teacher: 998****318	VIP Alice
-254608465	https://www.eeo.cn/s/a/?cid=254608465	点石教育	Teacher: 黄军	张晨洋物理一对一专属课堂
-254608483	https://www.eeo.cn/s/a/?cid=254608483	Magic Park	Teacher: 961****720	EmmaJS
-254608611	https://www.eeo.cn/s/a/?cid=254608611	行知青藤英领院	Teacher: 186****6657	孙老师1V3 IC笔试
 254608665	https://www.eeo.cn/s/a/?cid=254608665	【正常】杭州青少年活动中心	Teacher: 武晓谨	W1A005-1-粉印版画
 254608831	https://www.eeo.cn/s/a/?cid=254608831	阳光酷编机器人·编程	Teacher: 王奋明	寒假初二物理王老师-红旗
 254608863	https://www.eeo.cn/s/a/?cid=254608863	Melodie Laoshi online classroom	Teacher: 946****486	Edwina's Classroom
@@ -1198,3 +1192,9 @@
 254674083	https://www.eeo.cn/s/a/?cid=254674083	Teacher Ros online classroom	Teacher: rpacumba*****ail.com	sunny
 254674087	https://www.eeo.cn/s/a/?cid=254674087	京鹰培优	Teacher: 王老师	2025届寒假初二地理
 254674109	https://www.eeo.cn/s/a/?cid=254674109	京鹰培优	Teacher: 王老师	2025届寒假初二生物
+254674129	https://www.eeo.cn/s/a/?cid=254674129	Ielts English	Teacher: 150****6500	子健雅思口语
+254674167	https://www.eeo.cn/s/a/?cid=254674167	0063-9942641835 online classroom	Teacher: 994****835	ZoeHEB
+254674173	https://www.eeo.cn/s/a/?cid=254674173	Teacher Jane online classroom	Teacher: justinelincuna*****ail.c	Cassie's class 1/24 @5:30pm
+254674391	https://www.eeo.cn/s/a/?cid=254674391	7790166*****.com online classroom	Teacher: 949****030	Nicole-Teacher An
+254674427	https://www.eeo.cn/s/a/?cid=254674427	优学	Teacher: 齐老师	2024春数学2
+254674467	https://www.eeo.cn/s/a/?cid=254674467	Teacher Mac online classroom	Teacher: magic202311*****3.com	Teacher Stef

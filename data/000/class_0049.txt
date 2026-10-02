@@ -1,11 +1,3 @@
-255353621	https://www.eeo.cn/s/a/?cid=255353621	前海大新校区	Teacher: 李锐	李锐化学2B-2.3
-255353623	https://www.eeo.cn/s/a/?cid=255353623	在线素质课堂	Teacher: 翟秀玉 Krystal	薛淏元1V1
-255353677	https://www.eeo.cn/s/a/?cid=255353677	麦老师英语工作室	Teacher: 麦老师Mickey	Mickey寒假二期KET Lesson2
-255353707	https://www.eeo.cn/s/a/?cid=255353707	麦老师英语工作室	Teacher: 麦老师Mickey	Mickey寒假二期KET Lesson3
-255353789	https://www.eeo.cn/s/a/?cid=255353789	上海雨睿科技有限公司	Teacher: 152****3987	段
-255353881	https://www.eeo.cn/s/a/?cid=255353881	WeIP Education	Teacher: Mr Jack	2024 F3 BC THU 7.15pm Mr.Jack 独中
-255353887	https://www.eeo.cn/s/a/?cid=255353887	KHIM online classroom	Teacher: 936****010	DEMO CLASS _ CANDY
-255354013	https://www.eeo.cn/s/a/?cid=255354013	魔力数学	Teacher: 数学高老师	张贺璌一对一
 255354109	https://www.eeo.cn/s/a/?cid=255354109	dafu online classroom	Teacher: 804****858	ゆ
 255354119	https://www.eeo.cn/s/a/?cid=255354119	Impressive English	Teacher: 爱英语外教	Batoul-Melody郑君怡
 255354385	https://www.eeo.cn/s/a/?cid=255354385	Enriquez, Marisa online classroom	Teacher: marisaenrique*****ail.co	SAMGYUP
@@ -1198,3 +1190,11 @@
 255424101	https://www.eeo.cn/s/a/?cid=255424101	Takhmina online classroom	Teacher: navruzkulov*****ail.com	Lesson 5
 255424169	https://www.eeo.cn/s/a/?cid=255424169	壹心教育	Teacher: 林娜	林娜-寒假一年级数学
 255424205	https://www.eeo.cn/s/a/?cid=255424205	陆伟佳	Teacher: lwj	詹老师 & ClassIn
+255424219	https://www.eeo.cn/s/a/?cid=255424219	小采课堂	Teacher: 饶颖	【寒】L3三期晚上A+班饭饭老师
+255424257	https://www.eeo.cn/s/a/?cid=255424257	Kath online classroom	Teacher: 907****916	Chen
+255424299	https://www.eeo.cn/s/a/?cid=255424299	Teacher Shai 5 online classroom	Teacher: 997****829	Olivia's Classroom 2
+255424315	https://www.eeo.cn/s/a/?cid=255424315	Chenny online classroom	Teacher: 927****327	TIMMY-CHENN
+255424327	https://www.eeo.cn/s/a/?cid=255424327	薪火兴学教育	Teacher: 158****5772	曹书墨数学人教A
+255424517	https://www.eeo.cn/s/a/?cid=255424517	Teacher Yanara online classroom	Teacher: culobiomereydiana*****ai	My Third Class
+255424537	https://www.eeo.cn/s/a/?cid=255424537	Helen老师在线课	Teacher: 187****3249	think补课
+255424569	https://www.eeo.cn/s/a/?cid=255424569	武汉市武昌区耽思文化教育培训学校	Teacher: 大杨老师	高二拔高班物理

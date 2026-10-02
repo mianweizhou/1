@@ -1,13 +1,3 @@
-256842933	https://www.eeo.cn/s/a/?cid=256842933	Teacher Jammy online classroom	Teacher: vjamjesh*****hoo.com	Trial Class with SaSa :)
-256843021	https://www.eeo.cn/s/a/?cid=256843021	GlobalEdU	Teacher: Jeff	June
-256843029	https://www.eeo.cn/s/a/?cid=256843029	Grace online classroom	Teacher: 939****500	Damon
-256843041	https://www.eeo.cn/s/a/?cid=256843041	明见少年	Teacher: 傅琴	董老师调试课
-256843067	https://www.eeo.cn/s/a/?cid=256843067	BTran online classroom	Teacher: nguyenhobtran23*****ail.	kjnbhvg
-256843099	https://www.eeo.cn/s/a/?cid=256843099	Mero online classroom	Teacher: 817****75	Mr Winson. Demo Lesson
-256843105	https://www.eeo.cn/s/a/?cid=256843105	Rose online classroom	Teacher: 520****327	Eric’s 66th lesson
-256843107	https://www.eeo.cn/s/a/?cid=256843107	大刘数学	Teacher: 153****3370	2024春初一天河
-256843115	https://www.eeo.cn/s/a/?cid=256843115	Ross King online classroom	Teacher: 968****755	Elsa's course
-256843193	https://www.eeo.cn/s/a/?cid=256843193	Teacher May online classroom	Teacher: marryrose.afroil*****ped	Sophie's Class
 256843261	https://www.eeo.cn/s/a/?cid=256843261	在线教室	Teacher: Сянюй	媛媛3.2
 256843273	https://www.eeo.cn/s/a/?cid=256843273	青松文化教育	Teacher: 徐汇吴懿老师	2024CXHC2LS14:35P六
 256843309	https://www.eeo.cn/s/a/?cid=256843309	蜜蜂英语	Teacher: Jack	Teacher Jack with Dream 🩵
@@ -1198,3 +1188,13 @@
 256895761	https://www.eeo.cn/s/a/?cid=256895761	来说英语	Teacher: 课程小助理-Hazel	John tang’s class
 256895825	https://www.eeo.cn/s/a/?cid=256895825	Sandy工作室	Teacher: Sandy	Unlock 2 Unit 2-4 周日上
 256895885	https://www.eeo.cn/s/a/?cid=256895885	Teacher Dianne online classroom	Teacher: lopezdayan*****ail.com	NOTES
+256895969	https://www.eeo.cn/s/a/?cid=256895969	Teacher Gen 3 online classroom	Teacher: limmmasiel*****ail.com	Lisa/ March
+256895981	https://www.eeo.cn/s/a/?cid=256895981	Teacher Jom online classroom	Teacher: jomariepp20*****ail.com	Demo
+256895993	https://www.eeo.cn/s/a/?cid=256895993	Lydia Lee online classroom	Teacher: lydiachitam*****hoo.com	demo
+256896047	https://www.eeo.cn/s/a/?cid=256896047	Febri Wibi online classroom	Teacher: febriwibi*****ail.com	Percobaan
+256896069	https://www.eeo.cn/s/a/?cid=256896069	武汉市武昌区耽思文化教育培训学校	Teacher: 大杨老师	高二付老师数学小班
+256896087	https://www.eeo.cn/s/a/?cid=256896087	武汉市武昌区耽思文化教育培训学校	Teacher: 大杨老师	高二强基2班物理
+256896171	https://www.eeo.cn/s/a/?cid=256896171	点石教育	Teacher: 单希晓	班级
+256896695	https://www.eeo.cn/s/a/?cid=256896695	上海开放大学	Teacher: 310_2008053	青浦分校法律文化20240406次线上直播课
+256896721	https://www.eeo.cn/s/a/?cid=256896721	Teacher Cath online classroom	Teacher: 907****527	Lorraine_class
+256896759	https://www.eeo.cn/s/a/?cid=256896759	anatheres.teogang*****pe online classroom	Teacher: anatheres.teogang*****pe	Chris and dora

@@ -1,9 +1,3 @@
-254494053	https://www.eeo.cn/s/a/?cid=254494053	Jemmy online classroom	Teacher: 909****335	Jason2355
-254494067	https://www.eeo.cn/s/a/?cid=254494067	HappyTeaching	Teacher: 麦麦班班	cat51349
-254494071	https://www.eeo.cn/s/a/?cid=254494071	Rafi online classroom	Teacher: 175****808	Ms Sharon
-254494121	https://www.eeo.cn/s/a/?cid=254494121	HappyTeaching	Teacher: Rag	Evan
-254494157	https://www.eeo.cn/s/a/?cid=254494157	cris26 online classroom	Teacher: clarp*****hoo.com	Eason
-254494165	https://www.eeo.cn/s/a/?cid=254494165	立德信息服务	Teacher: 外教老师伊西	Andy8 New class
 254494181	https://www.eeo.cn/s/a/?cid=254494181	HappyTeaching	Teacher: Rag	paipai
 254494185	https://www.eeo.cn/s/a/?cid=254494185	0063-9912289485 online classroom	Teacher: 991****485	12th class Cheetas are fast
 254494219	https://www.eeo.cn/s/a/?cid=254494219	Jemmy online classroom	Teacher: 909****335	jason2335
@@ -1198,3 +1192,9 @@
 254553305	https://www.eeo.cn/s/a/?cid=254553305	Nikita online classroom	Teacher: 718****66	Class with Elsa 1
 254553307	https://www.eeo.cn/s/a/?cid=254553307	Alix Talk	Teacher: Dorine	Amy李亦善&Jessie Jin ger
 254553341	https://www.eeo.cn/s/a/?cid=254553341	Teacher Richard	Teacher: 779****576	Roy 22.1.24
+254553375	https://www.eeo.cn/s/a/?cid=254553375	Higher Study	Teacher: 王伟	圳颖补课
+254553383	https://www.eeo.cn/s/a/?cid=254553383	一起来学习	Teacher: 0293	Daniel 北京/白雪公主
+254553419	https://www.eeo.cn/s/a/?cid=254553419	yergen Crocker online classroom	Teacher: 672****77	parkins
+254553441	https://www.eeo.cn/s/a/?cid=254553441	Nikita online classroom	Teacher: 718****66	Class with Elsa 2
+254553517	https://www.eeo.cn/s/a/?cid=254553517	Teacher beth new class online classroom	Teacher: claudesung*****ail.com	Jon - Jan. 2024
+254553519	https://www.eeo.cn/s/a/?cid=254553519	Nhuha online classroom	Teacher: 914****66	PTS 1 - 1

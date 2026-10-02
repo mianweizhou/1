@@ -1,4 +1,3 @@
-252637073	https://www.eeo.cn/s/a/?cid=252637073	呼啦啦教育	Teacher: 周晨茜	课程设计
 252637171	https://www.eeo.cn/s/a/?cid=252637171	教师发展中心	Teacher: 李嘉慧	华侨城中学测试
 252637187	https://www.eeo.cn/s/a/?cid=252637187	联合教研教学平台	Teacher: 李密	高三物理组教研会
 252637217	https://www.eeo.cn/s/a/?cid=252637217	ABCD	Teacher: Teacher Lu	Oliver6 classroom
@@ -1198,3 +1197,4 @@
 252697207	https://www.eeo.cn/s/a/?cid=252697207	齐金鹏数学	Teacher: 151****9370	录制测试
 252697255	https://www.eeo.cn/s/a/?cid=252697255	思考乐培训（高中）	Teacher: 王荣耀	709445-王荣耀-龙二-龙城-秋季-高一-数学-20231223-14:00
 252697263	https://www.eeo.cn/s/a/?cid=252697263	圆学梦	Teacher: 林老师	【圆学梦】24届九年级化学圆腾班
+252697265	https://www.eeo.cn/s/a/?cid=252697265	Meili Learning Hub	Teacher: 922****052	FRANK 6MOS BUSINESS CLASS

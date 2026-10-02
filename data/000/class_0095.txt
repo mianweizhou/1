@@ -1,13 +1,3 @@
-258037355	https://www.eeo.cn/s/a/?cid=258037355	Teacher Nik online classroom	Teacher: kajile76*****yshare.com	HARRY
-258037447	https://www.eeo.cn/s/a/?cid=258037447	genineysabeltansip*****a online classroom	Teacher: genineysabeltansip*****a	Teacher Jen
-258037461	https://www.eeo.cn/s/a/?cid=258037461	Teacher Nik online classroom	Teacher: kajile76*****yshare.com	Jack/Wang xiuyi
-258037473	https://www.eeo.cn/s/a/?cid=258037473	Teacher Hann online classroom	Teacher: jayson1*****ail.com	Elsa’s Clas
-258037513	https://www.eeo.cn/s/a/?cid=258037513	Teacher Nik online classroom	Teacher: kajile76*****yshare.com	Steven
-258037543	https://www.eeo.cn/s/a/?cid=258037543	Teacher TD online classroom	Teacher: 375****48	SH-JSB28-HB
-258037571	https://www.eeo.cn/s/a/?cid=258037571	Elle Alpha online classroom	Teacher: efcahoy.eyec*****ail.com	Kino's Sub Classroom ef.chy
-258037707	https://www.eeo.cn/s/a/?cid=258037707	LET'S GO ENGLISH	Teacher: 967****313	Bob
-258037727	https://www.eeo.cn/s/a/?cid=258037727	快乐在线课程	Teacher: 吴仪帆	Helen与化学
-258037779	https://www.eeo.cn/s/a/?cid=258037779	Awesome English	Teacher: Awesome English	Lucas-Grammar Friends
 258037901	https://www.eeo.cn/s/a/?cid=258037901	EnglishZOO	Teacher: Stephanie Walsh	G1-Leo
 258037939	https://www.eeo.cn/s/a/?cid=258037939	顺德区信息学拔尖创新人才计划	Teacher: 刘良欣	顺德区信息学教学团队
 258038005	https://www.eeo.cn/s/a/?cid=258038005	Teacher Glady online classroom	Teacher: 695****60	Alisa's classes
@@ -1198,3 +1188,13 @@
 258099045	https://www.eeo.cn/s/a/?cid=258099045	LET'S GO ENGLISH	Teacher: hannahdelacruz26*****ail	Cici
 258099115	https://www.eeo.cn/s/a/?cid=258099115	Gillian online classroom	Teacher: 775****576	Wu Pengju - Mon, March 25 at 8:30pm
 258099171	https://www.eeo.cn/s/a/?cid=258099171	klar5 online classroom	Teacher: 915****156	billy
+258099185	https://www.eeo.cn/s/a/?cid=258099185	Ninette teacher	Teacher: Ninette	Nicole Franch class n
+258099189	https://www.eeo.cn/s/a/?cid=258099189	Teacher..Kriza online classroom	Teacher: krizabiclar08*****ail.co	MINMIN CLASS
+258099233	https://www.eeo.cn/s/a/?cid=258099233	Gillian online classroom	Teacher: 775****576	Vicky's class - Tues, March 26 at 7pm
+258099279	https://www.eeo.cn/s/a/?cid=258099279	原版英语教材课	Teacher: 小福	Test
+258099305	https://www.eeo.cn/s/a/?cid=258099305	smart talk	Teacher: gv.katri*****cmai.edu.vn	Louis and Teacher Kat
+258099379	https://www.eeo.cn/s/a/?cid=258099379	优上留学	Teacher: 贾老师	徐子敏-siri（语文兰老师）
+258099447	https://www.eeo.cn/s/a/?cid=258099447	Teacher Arvelyn online classroom	Teacher: iamlaoshi*****ail.com	DORA
+258099543	https://www.eeo.cn/s/a/?cid=258099543	Trần Văn Tí Dài online classroom	Teacher: lelananh0*****ail.com	ds
+258099567	https://www.eeo.cn/s/a/?cid=258099567	Teacher Mary online classroom	Teacher: jhie.0919*****ail.com	L- 6 [ Is Grandma in the kitchen?
+258099577	https://www.eeo.cn/s/a/?cid=258099577	tasha.anne.frou*****ail. online classroom	Teacher: tasha.anne.frou*****ail.	Emma 3

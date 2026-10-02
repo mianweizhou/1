@@ -1,13 +1,3 @@
-257062051	https://www.eeo.cn/s/a/?cid=257062051	Teacher Lisa online classroom	Teacher: 832****252	Nanci 3-14
-257062091	https://www.eeo.cn/s/a/?cid=257062091	来说英语	Teacher: 课程小助理-Hazel	ollie's class
-257062123	https://www.eeo.cn/s/a/?cid=257062123	Teacher Lisa online classroom	Teacher: 832****252	Nanci 3-21
-257062155	https://www.eeo.cn/s/a/?cid=257062155	Teacher Lisa online classroom	Teacher: 832****252	Nanci 3-28
-257062181	https://www.eeo.cn/s/a/?cid=257062181	Teacher Lisa online classroom	Teacher: 832****252	Nanci 4-4
-257062201	https://www.eeo.cn/s/a/?cid=257062201	在线外教课	Teacher: 教务-王卓妮	0306 Trial prek-L1-D1 体验课
-257062209	https://www.eeo.cn/s/a/?cid=257062209	Teacher Cheng online classroom	Teacher: 915****424	New Start Ipil Branch
-257062213	https://www.eeo.cn/s/a/?cid=257062213	Tech Junior online classroom	Teacher: trieuat1*****ail.com	Python for Work
-257062215	https://www.eeo.cn/s/a/?cid=257062215	Teacher Lisa online classroom	Teacher: 832****252	Nanci 4-11
-257062261	https://www.eeo.cn/s/a/?cid=257062261	Teacher Lisa online classroom	Teacher: 832****252	Nanci 4-18
 257062349	https://www.eeo.cn/s/a/?cid=257062349	JanloBijan online classroom	Teacher: dequitojan*****ail.com	Jimmy7
 257062355	https://www.eeo.cn/s/a/?cid=257062355	Teacher Jaja online classroom	Teacher: 912****258	T. VANESSA's Class Counts - MCC
 257062425	https://www.eeo.cn/s/a/?cid=257062425	Jane Marie-6 online classroom	Teacher: 951****606	Sam 3.6
@@ -1198,3 +1188,13 @@
 257113661	https://www.eeo.cn/s/a/?cid=257113661	leslie online classroom	Teacher: 966****598	123
 257113705	https://www.eeo.cn/s/a/?cid=257113705	Teacher Mel & Apple online classroom	Teacher: maurielle08*****ail.com	Phoebe1
 257113747	https://www.eeo.cn/s/a/?cid=257113747	stander.kaylei*****ail.c online classroom	Teacher: stander.kaylei*****ail.c	Apple-Kayleigh
+257113771	https://www.eeo.cn/s/a/?cid=257113771	Teacher Ash	Teacher: 614***00	W2 - L13 - Government Rules#3
+257113777	https://www.eeo.cn/s/a/?cid=257113777	Marcus Chiang Mai	Teacher: 620****29	ChengCheng March 6th
+257113779	https://www.eeo.cn/s/a/?cid=257113779	Mastery	Teacher: 933****00	H5 CLASS - LEVEL
+257113781	https://www.eeo.cn/s/a/?cid=257113781	进击的草履虫 online classroom	Teacher: 562***91	诶嘿
+257113853	https://www.eeo.cn/s/a/?cid=257113853	Chip online classroom	Teacher: 964****15	3a1
+257113953	https://www.eeo.cn/s/a/?cid=257113953	꧁༺DUYKHANH ²⁰¹³༻꧂ online classroom	Teacher: 982****85	ok
+257113961	https://www.eeo.cn/s/a/?cid=257113961	Happy Guangzhou online classroom	Teacher: 960****859	Cindy
+257113963	https://www.eeo.cn/s/a/?cid=257113963	Teacher Syrin online classroom	Teacher: 967****785	Gray’s 55 Class
+257114007	https://www.eeo.cn/s/a/?cid=257114007	Teacher Nikko online classroom	Teacher: judyandlouis*****ail.com	Judy and Louis Exlucsive Class
+257114041	https://www.eeo.cn/s/a/?cid=257114041	TEACHER MAY-ANN - DEREK online classroom	Teacher: derekk*****tlook.com	TEACHER MAY-ANN - DEREK

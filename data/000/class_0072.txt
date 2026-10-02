@@ -1,13 +1,3 @@
-256759121	https://www.eeo.cn/s/a/?cid=256759121	Teacher Sy online classroom	Teacher: florissadaned20*****ail.	Cy demo
-256759137	https://www.eeo.cn/s/a/?cid=256759137	KidNest online classroom	Teacher: vickywy6606*****ail.com	Vincent-Vicky
-256759155	https://www.eeo.cn/s/a/?cid=256759155	EEO	Teacher: 孙铭	赠送
-256759169	https://www.eeo.cn/s/a/?cid=256759169	TSD Inc.	Teacher: Kỳ Anh	Lớp học mẫu
-256759337	https://www.eeo.cn/s/a/?cid=256759337	天生慧作文	Teacher: 泡泡老师	泡泡老师三年级春季阅读理解
-256759365	https://www.eeo.cn/s/a/?cid=256759365	Emiterio Domingo online classroom	Teacher: 956****075	PAGBASA AT PAGSUSURI 11
-256759369	https://www.eeo.cn/s/a/?cid=256759369	口口老师	Teacher: 催催	1组小豆
-256759371	https://www.eeo.cn/s/a/?cid=256759371	English Pro	Teacher: 991****416	Liam March 2024
-256759373	https://www.eeo.cn/s/a/?cid=256759373	小鱼沙拉	Teacher: 158****6760	剑桥英语（每周六晚6:30）
-256759419	https://www.eeo.cn/s/a/?cid=256759419	Teacher Sy online classroom	Teacher: florissadaned20*****ail.	Cy Demo
 256759433	https://www.eeo.cn/s/a/?cid=256759433	brylleracines*****ail.co online classroom	Teacher: brylleracines*****ail.co	dannah
 256759437	https://www.eeo.cn/s/a/?cid=256759437	Teacher Anna Leigh online classroom	Teacher: 963****883	SCIENCE 3
 256759487	https://www.eeo.cn/s/a/?cid=256759487	English School and Tutorial Services	Teacher: Teacher Irish Bie	Hannah's class
@@ -1198,3 +1188,13 @@
 256795767	https://www.eeo.cn/s/a/?cid=256795767	Joanie online classroom	Teacher: 662****77	Emma Unit 6 Lesson 3
 256795781	https://www.eeo.cn/s/a/?cid=256795781	Eda Ogundijo online classroom	Teacher: 629****91	jessica 1.3
 256795829	https://www.eeo.cn/s/a/?cid=256795829	刘老师思维训练	Teacher: 136****6416	八年春季
+256795841	https://www.eeo.cn/s/a/?cid=256795841	Ivy English	Teacher: 975****697	Nina
+256795843	https://www.eeo.cn/s/a/?cid=256795843	Rhy2 online classroom	Teacher: 991****505	Iris - Mar 16
+256795855	https://www.eeo.cn/s/a/?cid=256795855	Teacher Mae online classroom	Teacher: 975****305	125 Shirley
+256795859	https://www.eeo.cn/s/a/?cid=256795859	工作室	Teacher: 上官老师	25春上官读书周二18:40
+256795879	https://www.eeo.cn/s/a/?cid=256795879	Teacher Gera online classroom	Teacher: 956****194	ALBERT'S CLASS
+256795915	https://www.eeo.cn/s/a/?cid=256795915	Joanie online classroom	Teacher: 662****77	Anita L2 Unit 8 Lesson 1
+256795935	https://www.eeo.cn/s/a/?cid=256795935	Natasa Golubovic	Teacher: 676***27	jimmy 21:30
+256795961	https://www.eeo.cn/s/a/?cid=256795961	Rhy2 online classroom	Teacher: 991****505	Iris - Mar 23
+256796015	https://www.eeo.cn/s/a/?cid=256796015	工作室	Teacher: 曲老师	24春大肚读书周一16:50
+256796041	https://www.eeo.cn/s/a/?cid=256796041	Yeak Caysley online classroom	Teacher: tracy_82*****tmail.com	Angelin

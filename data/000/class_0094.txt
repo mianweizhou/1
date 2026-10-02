@@ -1,13 +1,3 @@
-257984003	https://www.eeo.cn/s/a/?cid=257984003	Laoshi Sam online classroom	Teacher: bechaydajesamae*****ail.	Classes with Eden (10/25)
-257984119	https://www.eeo.cn/s/a/?cid=257984119	7jimi.james20*****ail.co online classroom	Teacher: 7jimi.james20*****ail.co	qwe999
-257984153	https://www.eeo.cn/s/a/?cid=257984153	CHANNEL课堂	Teacher: 0李老师 总	蒋老师中考刷题打卡班
-257984155	https://www.eeo.cn/s/a/?cid=257984155	ABCD	Teacher: Teacher Lu	Ehsan—Joy8武汉 classroom
-257984161	https://www.eeo.cn/s/a/?cid=257984161	S & G	Teacher: 910****802	Evelyn - Oxord Phonics World 5
-257984197	https://www.eeo.cn/s/a/?cid=257984197	Lorraine online classroom	Teacher: lfourie*****ail.com	Trail-Aimee
-257984263	https://www.eeo.cn/s/a/?cid=257984263	Teacher Nik online classroom	Teacher: kajile76*****yshare.com	Ruby
-257984303	https://www.eeo.cn/s/a/?cid=257984303	Karine波斯 online classroom	Teacher: 2024t02a*****ail.com	Kimi
-257984317	https://www.eeo.cn/s/a/?cid=257984317	mariacaterina92 online classroom	Teacher: 927****018	Anna-March 21
-257984349	https://www.eeo.cn/s/a/?cid=257984349	Ms. Jhesica online classroom	Teacher: zetachi0622alphaphiome**	ETHAN9
 257984355	https://www.eeo.cn/s/a/?cid=257984355	sogol_mohamadi19*****hoo online classroom	Teacher: sogol_mohamadi19*****hoo	English class
 257984357	https://www.eeo.cn/s/a/?cid=257984357	hant271 online classroom	Teacher: 961****99	12345
 257984363	https://www.eeo.cn/s/a/?cid=257984363	Teacher Nathan online classroom	Teacher: nielhulbert*****ail.com	Enda's class
@@ -1198,3 +1188,13 @@
 258037187	https://www.eeo.cn/s/a/?cid=258037187	ameligroshil*****ail.com online classroom	Teacher: ameligroshil*****ail.com	Miao
 258037195	https://www.eeo.cn/s/a/?cid=258037195	北京恩加恩教育咨询有限公司	Teacher: Vivien 郑	2024-3-kb1-春季
 258037219	https://www.eeo.cn/s/a/?cid=258037219	hoàng nhi online classroom	Teacher: 842****38	,,,,
+258037355	https://www.eeo.cn/s/a/?cid=258037355	Teacher Nik online classroom	Teacher: kajile76*****yshare.com	HARRY
+258037447	https://www.eeo.cn/s/a/?cid=258037447	genineysabeltansip*****a online classroom	Teacher: genineysabeltansip*****a	Teacher Jen
+258037461	https://www.eeo.cn/s/a/?cid=258037461	Teacher Nik online classroom	Teacher: kajile76*****yshare.com	Jack/Wang xiuyi
+258037473	https://www.eeo.cn/s/a/?cid=258037473	Teacher Hann online classroom	Teacher: jayson1*****ail.com	Elsa’s Clas
+258037513	https://www.eeo.cn/s/a/?cid=258037513	Teacher Nik online classroom	Teacher: kajile76*****yshare.com	Steven
+258037543	https://www.eeo.cn/s/a/?cid=258037543	Teacher TD online classroom	Teacher: 375****48	SH-JSB28-HB
+258037571	https://www.eeo.cn/s/a/?cid=258037571	Elle Alpha online classroom	Teacher: efcahoy.eyec*****ail.com	Kino's Sub Classroom ef.chy
+258037707	https://www.eeo.cn/s/a/?cid=258037707	LET'S GO ENGLISH	Teacher: 967****313	Bob
+258037727	https://www.eeo.cn/s/a/?cid=258037727	快乐在线课程	Teacher: 吴仪帆	Helen与化学
+258037779	https://www.eeo.cn/s/a/?cid=258037779	Awesome English	Teacher: Awesome English	Lucas-Grammar Friends

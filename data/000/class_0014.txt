@@ -1,5 +1,3 @@
-253333021	https://www.eeo.cn/s/a/?cid=253333021	Teacher Nana	Teacher: 977****598	Witkey7Z
-253333073	https://www.eeo.cn/s/a/?cid=253333073	Mae online classroom	Teacher: 926****035	Trial Class
 253333093	https://www.eeo.cn/s/a/?cid=253333093	nguyenbaochau.5*****ail. online classroom	Teacher: nguyenbaochau.5*****ail.	làng gốm bát tràng
 253333199	https://www.eeo.cn/s/a/?cid=253333199	Jansie G online classroom	Teacher: 916****554	Rusty MA
 253333265	https://www.eeo.cn/s/a/?cid=253333265	az tutorial	Teacher: 997****589	ALJER
@@ -713,7 +711,6 @@
 253360853	https://www.eeo.cn/s/a/?cid=253360853	Abigail online classroom	Teacher: 818****55	ail faith
 253360863	https://www.eeo.cn/s/a/?cid=253360863	Gogchyan English	Teacher: 986***30	Zihan
 253360895	https://www.eeo.cn/s/a/?cid=253360895	Karla online classroom	Teacher: 927****947	Tian's Classroom 28
-253360983	https://www.eeo.cn/s/a/?cid=253360983	Zora's Class	Teacher: 985****612	Tommy
 253361009	https://www.eeo.cn/s/a/?cid=253361009	Teacher K (8) ? online classroom	Teacher: 906****675	Cindy's Classroom 8
 253361047	https://www.eeo.cn/s/a/?cid=253361047	Steph online classroom	Teacher: stephcole41*****ail.com	trial
 253361143	https://www.eeo.cn/s/a/?cid=253361143	Janeth online classroom	Teacher: 951****871	ESL Training
@@ -1006,7 +1003,6 @@
 253375017	https://www.eeo.cn/s/a/?cid=253375017	Teacher Amer online classroom	Teacher: 514****887	YouYou - January 2024
 253375023	https://www.eeo.cn/s/a/?cid=253375023	0039-3669712072 online classroom	Teacher: 366****072	may's class by Tony
 253375031	https://www.eeo.cn/s/a/?cid=253375031	Katniss online classroom	Teacher: 967***80	test
-253375053	https://www.eeo.cn/s/a/?cid=253375053	Zora's Class	Teacher: 985****612	Amy
 253375133	https://www.eeo.cn/s/a/?cid=253375133	北大附中教育集团总校	Teacher: 胡凡英	556
 253375169	https://www.eeo.cn/s/a/?cid=253375169	Teacher Richelle online classroom	Teacher: sheispanny*****ail.com	Erik33 / jan3
 253375185	https://www.eeo.cn/s/a/?cid=253375185	Oral English Training Camp	Teacher: Teacher M	201-Sophia
@@ -1198,3 +1194,7 @@
 253382555	https://www.eeo.cn/s/a/?cid=253382555	Teacher Nik online classroom	Teacher: 776****766	Alan/Zhang Wenfu
 253382643	https://www.eeo.cn/s/a/?cid=253382643	Learn English for Life	Teacher: 757****583	Robin and Cecilia
 253382653	https://www.eeo.cn/s/a/?cid=253382653	Graham online classroom	Teacher: 835****82	Fit-30
+253382681	https://www.eeo.cn/s/a/?cid=253382681	shinesyy*****ail.com online classroom	Teacher: shinesyy*****ail.com	Thomas6 class
+253382687	https://www.eeo.cn/s/a/?cid=253382687	Dưa hấu online classroom	Teacher: 378****67	ngu
+253382795	https://www.eeo.cn/s/a/?cid=253382795	(Ruby) Ngọc Diệp online classroom	Teacher: 868****58	lớp học của các thành viên trong classln
+253382837	https://www.eeo.cn/s/a/?cid=253382837	pjhacelro*****ail.com online classroom	Teacher: pjhacelro*****ail.com	Jhacel Rose Puig

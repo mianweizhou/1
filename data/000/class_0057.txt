@@ -1,12 +1,3 @@
-255892855	https://www.eeo.cn/s/a/?cid=255892855	Teacher Nkele online classroom	Teacher: nkele19*****ail.com	Demon class
-255892881	https://www.eeo.cn/s/a/?cid=255892881	iRead online classroom	Teacher: 927****279	Linda - Teacher Elaine
-255892903	https://www.eeo.cn/s/a/?cid=255892903	一乐教育	Teacher: 陈朋	七年级三期下午
-255892909	https://www.eeo.cn/s/a/?cid=255892909	思的教育 Seed Education	Teacher: Miko	Leo Vip
-255893023	https://www.eeo.cn/s/a/?cid=255893023	Learn	Teacher: 1	Hemani C20- 15.02.24
-255893089	https://www.eeo.cn/s/a/?cid=255893089	北京市第二十二中学	Teacher: 徐老师	恬恬
-255893101	https://www.eeo.cn/s/a/?cid=255893101	Kris ann online classroom	Teacher: 927****159	eric
-255893103	https://www.eeo.cn/s/a/?cid=255893103	Teacher Mar online classroom	Teacher: 930****138	ana
-255893207	https://www.eeo.cn/s/a/?cid=255893207	学达线上教育	Teacher: MS IVY	TMD 23 BM F1 Sat 10.30-11.45am
 255893227	https://www.eeo.cn/s/a/?cid=255893227	Mark online classroom	Teacher: 605****89	Teacher Mark
 255893323	https://www.eeo.cn/s/a/?cid=255893323	飞跃教育初高中部	Teacher: 王昊	2024年初中小中考生物+地理课程
 255893333	https://www.eeo.cn/s/a/?cid=255893333	Teacher Angel online classroom	Teacher: 993****284	Wilson
@@ -911,7 +902,6 @@
 255935029	https://www.eeo.cn/s/a/?cid=255935029	paul online classroom	Teacher: 907****870	Jenny class
 255935033	https://www.eeo.cn/s/a/?cid=255935033	Maricar Gee online classroom	Teacher: 907****766	Mia'
 255935049	https://www.eeo.cn/s/a/?cid=255935049	paul online classroom	Teacher: 907****870	Anna6 class
-255935057	https://www.eeo.cn/s/a/?cid=255935057	Maricar Gee online classroom	Teacher: 907****766	Mia's English Class
 255935061	https://www.eeo.cn/s/a/?cid=255935061	保研教育	Teacher: 后保文文	马昀楚 普刊10通关
 255935195	https://www.eeo.cn/s/a/?cid=255935195	Joyce online classroom	Teacher: ann.impang*****ail.com	Mason and Jacob's Class
 255935225	https://www.eeo.cn/s/a/?cid=255935225	上海市浦东新区白玉兰小学	Teacher: 叶宏	道法教研组
@@ -1198,3 +1188,13 @@
 255951269	https://www.eeo.cn/s/a/?cid=255951269	SilviyaB online classroom	Teacher: 641****67	CAS 2,2
 255951299	https://www.eeo.cn/s/a/?cid=255951299	Teacher Nik online classroom	Teacher: fedaro28*****hih.com	EVA
 255951323	https://www.eeo.cn/s/a/?cid=255951323	Teacher Nik online classroom	Teacher: fedaro28*****hih.com	Eric/Han zhaoyang
+255951385	https://www.eeo.cn/s/a/?cid=255951385	无老师	Teacher: 孙小茗	佳桐&彦南 1v2 网络课
+255951431	https://www.eeo.cn/s/a/?cid=255951431	Teacher Helen online classroom	Teacher: lhenmcallue*****ail.com	iya & derlyn
+255951435	https://www.eeo.cn/s/a/?cid=255951435	Teacher Jen online classroom	Teacher: riginepabutawan9*****ail	zaiden
+255951481	https://www.eeo.cn/s/a/?cid=255951481	Teacher Jen online classroom	Teacher: riginepabutawan9*****ail	Zaiden
+255951513	https://www.eeo.cn/s/a/?cid=255951513	Loren online classroom	Teacher: lorrainelancita*****ail.	loren
+255951627	https://www.eeo.cn/s/a/?cid=255951627	Teacher Fete online classroom	Teacher: 960****050	Hooray's Class
+255951671	https://www.eeo.cn/s/a/?cid=255951671	Teacher Fete online classroom	Teacher: 960****050	Carrie's Class
+255951675	https://www.eeo.cn/s/a/?cid=255951675	Teacher Matthew online classroom	Teacher: joncicmati*****ail.com	theodore
+255951725	https://www.eeo.cn/s/a/?cid=255951725	Teacher Matthew online classroom	Teacher: joncicmati*****ail.com	Eva
+255951807	https://www.eeo.cn/s/a/?cid=255951807	Huba Rana online classroom	Teacher: 514****548	Twin Feb Class 2024

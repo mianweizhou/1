@@ -1,7 +1,3 @@
-254065113	https://www.eeo.cn/s/a/?cid=254065113	T.Jhey/Jason online classroom	Teacher: 963****455	JEMMY3
-254065247	https://www.eeo.cn/s/a/?cid=254065247	青藤学成	Teacher: 语培	百某AP课
-254065265	https://www.eeo.cn/s/a/?cid=254065265	灯塔英语	Teacher: Violet	Super Tony Eilly
-254065323	https://www.eeo.cn/s/a/?cid=254065323	常青藤Online	Teacher: 金禹含	KN2-试听-周三20:00-21:00-杨忆澄
 254065371	https://www.eeo.cn/s/a/?cid=254065371	SAIRA.OBA online classroom	Teacher: 829****63	Ashley8
 254065423	https://www.eeo.cn/s/a/?cid=254065423	华二紫竹&华二附初	Teacher: 杜娟	寒假初三跨学科
 254065677	https://www.eeo.cn/s/a/?cid=254065677	人大附中石景山学校	Teacher: 燕东杰	人石2023级高二全体学生群
@@ -1198,3 +1194,7 @@
 254113783	https://www.eeo.cn/s/a/?cid=254113783	rasat*****hs.edu online classroom	Teacher: rasat*****hs.edu.my	ji
 254113847	https://www.eeo.cn/s/a/?cid=254113847	北京语言大学网络教育学院	Teacher: Iris Guo	Online Business Chinese Level 8-18
 254113941	https://www.eeo.cn/s/a/?cid=254113941	TEACHER M online classroom	Teacher: 945****725	FB
+254113959	https://www.eeo.cn/s/a/?cid=254113959	广东省习悦教育培训中心	Teacher: Shuang Hou	G2-测评-叶其霖
+254113997	https://www.eeo.cn/s/a/?cid=254113997	Teacher Steph (1) online classroom	Teacher: 965****504	Kyle, Karen, and Kathy's English Class
+254114037	https://www.eeo.cn/s/a/?cid=254114037	Teacher Paul	Teacher: 928****198	Susu Student Classroom
+254114195	https://www.eeo.cn/s/a/?cid=254114195	上海外国语大学松江外国语学校	Teacher: 薛婧璟	2023级七年级11&12班-英语

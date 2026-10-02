@@ -1,8 +1,3 @@
-254221827	https://www.eeo.cn/s/a/?cid=254221827	乐梦营	Teacher: Freya	1.21 14:00 Freya-Demo
-254221879	https://www.eeo.cn/s/a/?cid=254221879	blessjoannescalagolimbag online classroom	Teacher: blessjoannescalagolimbag	Demo with Teacher Bless
-254221901	https://www.eeo.cn/s/a/?cid=254221901	Anita 3 online classroom	Teacher: 551***73	Jeremy 20:30
-254221921	https://www.eeo.cn/s/a/?cid=254221921	Teacher Hannah online classroom	Teacher: 995****957	Tom
-254221951	https://www.eeo.cn/s/a/?cid=254221951	Arno online classroom	Teacher: arradup20*****ail.com	Cowboy
 254222029	https://www.eeo.cn/s/a/?cid=254222029	Arno online classroom	Teacher: arradup20*****ail.com	Bella
 254222151	https://www.eeo.cn/s/a/?cid=254222151	哇哈哈哈的语文世界	Teacher: 151****5528	六年级快乐一起学
 254222159	https://www.eeo.cn/s/a/?cid=254222159	Arlene's Class	Teacher: abar24ri*****ail.com	Aili5L
@@ -1198,3 +1193,8 @@
 254269979	https://www.eeo.cn/s/a/?cid=254269979	0063-9457014448 online classroom	Teacher: 945****448	English Tutor
 254269991	https://www.eeo.cn/s/a/?cid=254269991	交大附中附属嘉定洪德中学	Teacher: 王晓丽	七年级2班
 254270011	https://www.eeo.cn/s/a/?cid=254270011	Teacher Rej online classroom	Teacher: 995****486	Marcus' class 5
+254270021	https://www.eeo.cn/s/a/?cid=254270021	交大附中附属嘉定洪德中学	Teacher: 林江依	七年级3班
+254270053	https://www.eeo.cn/s/a/?cid=254270053	交大附中附属嘉定洪德中学	Teacher: 蔡莉琴	七年级4班
+254270115	https://www.eeo.cn/s/a/?cid=254270115	Teacher Jen online classroom	Teacher: 981****979	Elsa | Alex's lil sis GKB
+254270223	https://www.eeo.cn/s/a/?cid=254270223	Tutor-Online Private	Teacher: 917****857	Big Nate_Strikes Again_Course449
+254270239	https://www.eeo.cn/s/a/?cid=254270239	上海市闵行第三中学	Teacher: 贾立平	初三（3）（6）化学答疑

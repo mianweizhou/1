@@ -1,10 +1,3 @@
-254968929	https://www.eeo.cn/s/a/?cid=254968929	Teacher_Elmejane 4 online classroom	Teacher: 976****793	Aurora-1
-254968939	https://www.eeo.cn/s/a/?cid=254968939	魔力的教室	Teacher: 李迎君	文档传输
-254968947	https://www.eeo.cn/s/a/?cid=254968947	Aira online classroom	Teacher: teeeai*****ail.com	P&P 30
-254968973	https://www.eeo.cn/s/a/?cid=254968973	Teacher Linda (VIII) online classroom	Teacher: finafob1*****steron.com	Chen_2
-254969031	https://www.eeo.cn/s/a/?cid=254969031	Emjey Leigh online classroom	Teacher: 946****867	trial
-254969157	https://www.eeo.cn/s/a/?cid=254969157	đinh hà an online classroom	Teacher: 973****46	LISA,ROZE,BLACKPINK
-254969205	https://www.eeo.cn/s/a/?cid=254969205	飞跃教育初高中部	Teacher: 姜禹	9班测试课
 254969365	https://www.eeo.cn/s/a/?cid=254969365	đinh hà an online classroom	Teacher: 973****46	My LISA,BLACKPINK
 254969393	https://www.eeo.cn/s/a/?cid=254969393	Транссфера-Юз	Teacher: 188****0057	Великие Битвы России
 254969403	https://www.eeo.cn/s/a/?cid=254969403	Teacher Ruiz online classroom	Teacher: 993****347	Gavin2015's Class
@@ -1198,3 +1191,10 @@
 255030795	https://www.eeo.cn/s/a/?cid=255030795	文之汇	Teacher: 张老师	2024寒假史记
 255030887	https://www.eeo.cn/s/a/?cid=255030887	伊登·私学	Teacher: 英语彭玉倩	【2024寒春六】【莎翁的剧本】【六3班】周日&寒假隔天8:30
 255030927	https://www.eeo.cn/s/a/?cid=255030927	韩老师工作室	Teacher: 韩老师Ann	2024寒假八1班
+255030953	https://www.eeo.cn/s/a/?cid=255030953	Tchr Richelle online classroom	Teacher: 991****564	Erik51 / jan29
+255030989	https://www.eeo.cn/s/a/?cid=255030989	Teacher Anna online classroom	Teacher: 782****927	Emma 2024
+255031035	https://www.eeo.cn/s/a/?cid=255031035	BackUp classroom online classroom	Teacher: 951****766	Steven56 / jan29
+255031045	https://www.eeo.cn/s/a/?cid=255031045	学思行在线教育	Teacher: 马雨	1.29郭冉昊面试需试讲
+255031059	https://www.eeo.cn/s/a/?cid=255031059	Abbie online classroom	Teacher: 951****69	Yvan
+255031097	https://www.eeo.cn/s/a/?cid=255031097	Best English	Teacher: 136****2726	MIA MARY
+255031115	https://www.eeo.cn/s/a/?cid=255031115	Teacher Igo online classroom	Teacher: teacherig*****ail.com	Victoria's classroom (February)

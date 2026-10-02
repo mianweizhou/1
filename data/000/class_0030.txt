@@ -1,8 +1,3 @@
-254270021	https://www.eeo.cn/s/a/?cid=254270021	交大附中附属嘉定洪德中学	Teacher: 林江依	七年级3班
-254270053	https://www.eeo.cn/s/a/?cid=254270053	交大附中附属嘉定洪德中学	Teacher: 蔡莉琴	七年级4班
-254270115	https://www.eeo.cn/s/a/?cid=254270115	Teacher Jen online classroom	Teacher: 981****979	Elsa | Alex's lil sis GKB
-254270223	https://www.eeo.cn/s/a/?cid=254270223	Tutor-Online Private	Teacher: 917****857	Big Nate_Strikes Again_Course449
-254270239	https://www.eeo.cn/s/a/?cid=254270239	上海市闵行第三中学	Teacher: 贾立平	初三（3）（6）化学答疑
 254270261	https://www.eeo.cn/s/a/?cid=254270261	Michael online classroom	Teacher: 643****75	Nordin - Thursday, January 18, 2024
 254270265	https://www.eeo.cn/s/a/?cid=254270265	Joyce online classroom	Teacher: 950****282	Major Course (Hardy)
 254270369	https://www.eeo.cn/s/a/?cid=254270369	Let's Go English	Teacher: 991****337	Evan
@@ -1198,3 +1193,8 @@
 254322855	https://www.eeo.cn/s/a/?cid=254322855	Odette Van Straaten online classroom	Teacher: 721****76	Teacher Odde
 254322881	https://www.eeo.cn/s/a/?cid=254322881	lianyucheng online classroom	Teacher: 979***15	blablabla
 254322887	https://www.eeo.cn/s/a/?cid=254322887	南七	Teacher: 李思哲	24-寒数-一期下午-七创-李思哲
+254322901	https://www.eeo.cn/s/a/?cid=254322901	工作室	Teacher: 高静	24H 一期G6
+254322957	https://www.eeo.cn/s/a/?cid=254322957	远飞	Teacher: 陈sir	7MCYC0001初一数学【超优】小组课-寒假
+254322959	https://www.eeo.cn/s/a/?cid=254322959	壹心教育	Teacher: 靳淋雅	靳淋雅-一期18:30七年级物理高端班-光谷
+254322977	https://www.eeo.cn/s/a/?cid=254322977	Mike online classroom	Teacher: 779***00	Edward travel ket
+254323007	https://www.eeo.cn/s/a/?cid=254323007	Teacher Linda online classroom	Teacher: gidaka99*****sols.com	Lisa

@@ -1,13 +1,3 @@
-256719667	https://www.eeo.cn/s/a/?cid=256719667	Jaz online classroom	Teacher: parejajanice5*****ail.co	ewa🩷-1
-256719685	https://www.eeo.cn/s/a/?cid=256719685	Yanina online classroom	Teacher: 672****83	J1 Полина
-256719791	https://www.eeo.cn/s/a/?cid=256719791	Helga online classroom	Teacher: budk1n*****ndex.ru	girls
-256719801	https://www.eeo.cn/s/a/?cid=256719801	Teacher Leah 4 online classroom	Teacher: 965****499	2 HARPER's CLASS
-256719857	https://www.eeo.cn/s/a/?cid=256719857	Jezrael Saet online classroom	Teacher: 975****209	GENERAL PHYSICS 2
-256719859	https://www.eeo.cn/s/a/?cid=256719859	이미지아비 online classroom	Teacher: 103****017	SIM+
-256719895	https://www.eeo.cn/s/a/?cid=256719895	Helga online classroom	Teacher: budk1n*****ndex.ru	Phil
-256719903	https://www.eeo.cn/s/a/?cid=256719903	Teacher Cecilia B online classroom	Teacher: 843****34	rod
-256719915	https://www.eeo.cn/s/a/?cid=256719915	eiyannamariebun*****ail. online classroom	Teacher: eiyannamariebun*****ail.	Zoey
-256719937	https://www.eeo.cn/s/a/?cid=256719937	广州逐星科技推广应用有限公司	Teacher: 吴老师	2026春 天文进阶课程 周六19：00
 256719959	https://www.eeo.cn/s/a/?cid=256719959	艾鸭教育	Teacher: 李滨	张祈月EPQ
 256720015	https://www.eeo.cn/s/a/?cid=256720015	苏州高新区实验初级中学（锦峰路）	Teacher: 语文袁小童	58朗诵
 256720091	https://www.eeo.cn/s/a/?cid=256720091	Etutor	Teacher: Etutor	Ms. Hoang Huong 031074 || Teacher Ever
@@ -1198,3 +1188,13 @@
 256758975	https://www.eeo.cn/s/a/?cid=256758975	启思爸爸家庭启蒙教育先行者	Teacher: Charles Wong	AI時代-生活禪-100天講出流利英語
 256759039	https://www.eeo.cn/s/a/?cid=256759039	Grace online classroom	Teacher: asisgrace*****ail.com	SUMMER&OLIVIA
 256759067	https://www.eeo.cn/s/a/?cid=256759067	Nica online classroom	Teacher: 966****678	Kathy9
+256759121	https://www.eeo.cn/s/a/?cid=256759121	Teacher Sy online classroom	Teacher: florissadaned20*****ail.	Cy demo
+256759137	https://www.eeo.cn/s/a/?cid=256759137	KidNest online classroom	Teacher: vickywy6606*****ail.com	Vincent-Vicky
+256759155	https://www.eeo.cn/s/a/?cid=256759155	EEO	Teacher: 孙铭	赠送
+256759169	https://www.eeo.cn/s/a/?cid=256759169	TSD Inc.	Teacher: Kỳ Anh	Lớp học mẫu
+256759337	https://www.eeo.cn/s/a/?cid=256759337	天生慧作文	Teacher: 泡泡老师	泡泡老师三年级春季阅读理解
+256759365	https://www.eeo.cn/s/a/?cid=256759365	Emiterio Domingo online classroom	Teacher: 956****075	PAGBASA AT PAGSUSURI 11
+256759369	https://www.eeo.cn/s/a/?cid=256759369	口口老师	Teacher: 催催	1组小豆
+256759371	https://www.eeo.cn/s/a/?cid=256759371	English Pro	Teacher: 991****416	Liam March 2024
+256759373	https://www.eeo.cn/s/a/?cid=256759373	小鱼沙拉	Teacher: 158****6760	剑桥英语（每周六晚6:30）
+256759419	https://www.eeo.cn/s/a/?cid=256759419	Teacher Sy online classroom	Teacher: florissadaned20*****ail.	Cy Demo

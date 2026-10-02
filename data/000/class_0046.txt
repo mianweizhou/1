@@ -1,11 +1,3 @@
-255190829	https://www.eeo.cn/s/a/?cid=255190829	云课堂	Teacher: 文杰老师	湖北恩施 杨诗语数学学习群
-255190853	https://www.eeo.cn/s/a/?cid=255190853	云课堂	Teacher: 文杰老师	湖北恩施 杨诗语生物学习群
-255190865	https://www.eeo.cn/s/a/?cid=255190865	KidNest online classroom	Teacher: 8354461*****.com	Jordan
-255190897	https://www.eeo.cn/s/a/?cid=255190897	云课堂	Teacher: 文杰老师	湖北恩施 杨诗语化学学习群
-255190909	https://www.eeo.cn/s/a/?cid=255190909	Teacher_Pat online classroom	Teacher: 962****273	DEMO CLASS
-255190949	https://www.eeo.cn/s/a/?cid=255190949	LKD在线	Teacher: 丁玉洁	【2024九春】自招周日中午
-255191015	https://www.eeo.cn/s/a/?cid=255191015	王老师课堂	Teacher: 王老师	四下进阶班
-255191103	https://www.eeo.cn/s/a/?cid=255191103	Teacher Ricky online classroom	Teacher: 921****289	flora 2013Leo2017
 255191133	https://www.eeo.cn/s/a/?cid=255191133	sofiaanngagan*****ail.co online classroom	Teacher: sofiaanngagan*****ail.co	demo
 255191297	https://www.eeo.cn/s/a/?cid=255191297	Teacher Katty online classroom	Teacher: becooljust3*****ail.com	Cherry / Alora
 255191307	https://www.eeo.cn/s/a/?cid=255191307	Jonjie online classroom	Teacher: 908****225	Lisa
@@ -1198,3 +1190,11 @@
 255243171	https://www.eeo.cn/s/a/?cid=255243171	John online classroom	Teacher: 985****000	Claire 3
 255243193	https://www.eeo.cn/s/a/?cid=255243193	Teacher Olga online classroom	Teacher: 631****58	Платон B
 255243215	https://www.eeo.cn/s/a/?cid=255243215	广州翎远教育	Teacher: 刘文韬	翎远刘文韬老师课堂 3
+255243271	https://www.eeo.cn/s/a/?cid=255243271	Teacher Jazz	Teacher: 985****641	Alex's Class
+255243277	https://www.eeo.cn/s/a/?cid=255243277	TEACHER ALAIZA REN online classroom	Teacher: 946****416	LUCY February
+255243365	https://www.eeo.cn/s/a/?cid=255243365	Teacher Jazz	Teacher: 985****641	Ella's Class
+255243377	https://www.eeo.cn/s/a/?cid=255243377	品学教育	Teacher: 李卓辰	卓辰老师家长会
+255243449	https://www.eeo.cn/s/a/?cid=255243449	Direct Classes	Teacher: sherylm*****ail.com	Jasper (2)
+255243455	https://www.eeo.cn/s/a/?cid=255243455	Aloha	Teacher: 935****026	Apple
+255243473	https://www.eeo.cn/s/a/?cid=255243473	0044-7722189268 online classroom	Teacher: 772****268	Dylan February
+255243627	https://www.eeo.cn/s/a/?cid=255243627	Teacher Mark online classroom	Teacher: marksolin*****ail.com	Cook7

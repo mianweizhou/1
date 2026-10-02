@@ -1,13 +1,3 @@
-258264447	https://www.eeo.cn/s/a/?cid=258264447	章鱼	Teacher: 191****0829	4A春周六A
-258264465	https://www.eeo.cn/s/a/?cid=258264465	章鱼	Teacher: 191****0829	4A春周六D
-258264485	https://www.eeo.cn/s/a/?cid=258264485	April - Teacher online classroom	Teacher: apriliseey*****ail.com	Minmin's Class with Teacher April
-258264491	https://www.eeo.cn/s/a/?cid=258264491	复旦大学附属中学	Teacher: 复旦大学附属中学	ClassIn数智课堂系列分享——第一组
-258264559	https://www.eeo.cn/s/a/?cid=258264559	Noverly online classroom	Teacher: 927****027	Ilyas and Amine 3/28 -1
-258264581	https://www.eeo.cn/s/a/?cid=258264581	复旦大学附属中学	Teacher: 复旦大学附属中学	ClassIn数智课堂系列分享——第2组
-258264653	https://www.eeo.cn/s/a/?cid=258264653	复旦大学附属中学	Teacher: 复旦大学附属中学	ClassIn数智课堂系列分享——第3组
-258264691	https://www.eeo.cn/s/a/?cid=258264691	ZHANG, Zhiwen online classroom	Teacher: 951***92	A-Level Statistics 1
-258264695	https://www.eeo.cn/s/a/?cid=258264695	复旦大学附属中学	Teacher: 复旦大学附属中学	ClassIn数智课堂系列分享——第4组
-258264731	https://www.eeo.cn/s/a/?cid=258264731	Partner English	Teacher: 917****885	Demo
 258264733	https://www.eeo.cn/s/a/?cid=258264733	paculanangjean.*****ail. online classroom	Teacher: paculanangjean.*****ail.	Tom’s English Class
 258264759	https://www.eeo.cn/s/a/?cid=258264759	Jean V online classroom	Teacher: 955****839	Tom’s English Class
 258264871	https://www.eeo.cn/s/a/?cid=258264871	Jade online classroom	Teacher: 659****43	Leo
@@ -430,7 +420,6 @@
 258282403	https://www.eeo.cn/s/a/?cid=258282403	小站教育	Teacher: 苏姝	傅舜临老师考评教室
 258282425	https://www.eeo.cn/s/a/?cid=258282425	Shy.Ga online classroom	Teacher: 999****740	0326 Charles
 258282453	https://www.eeo.cn/s/a/?cid=258282453	Ana online classroom	Teacher: 642****32	Amber's English
-258282545	https://www.eeo.cn/s/a/?cid=258282545	Mike	Teacher: 616****15	Annie PC
 258282595	https://www.eeo.cn/s/a/?cid=258282595	Teacher Merry online classroom	Teacher: 917****440	Jimmy 2
 258282637	https://www.eeo.cn/s/a/?cid=258282637	Jenny online classroom	Teacher: 916****684	ESL Lv0 Andy
 258282707	https://www.eeo.cn/s/a/?cid=258282707	ell143ch*****ail.com online classroom	Teacher: ell143ch*****ail.com	ERIC
@@ -1198,3 +1187,14 @@
 258314945	https://www.eeo.cn/s/a/?cid=258314945	rmbuencuchil*****rist.ed online classroom	Teacher: rmbuencuchil*****rist.ed	PROOPMAN BSIT-3D
 258314953	https://www.eeo.cn/s/a/?cid=258314953	rmbuencuchil*****rist.ed online classroom	Teacher: rmbuencuchil*****rist.ed	PROOPMAN BSIT-3H
 258314971	https://www.eeo.cn/s/a/?cid=258314971	rmbuencuchil*****rist.ed online classroom	Teacher: rmbuencuchil*****rist.ed	ENTNCOOP BSIT-3H
+258315037	https://www.eeo.cn/s/a/?cid=258315037	AdvancedPhD顶博教育	Teacher: 130****2131	DDL 3.28 24点前 写英文带查重，B5 一份红隼
+258315119	https://www.eeo.cn/s/a/?cid=258315119	mdba*****rist.edu online classroom	Teacher: mdba*****rist.edu.ph	PROOPMAN BSIT-FT3B
+258315143	https://www.eeo.cn/s/a/?cid=258315143	Monelli online classroom	Teacher: 927****973	Test
+258315145	https://www.eeo.cn/s/a/?cid=258315145	AdvancedPhD顶博教育	Teacher: 130****2131	DDL 3.28 24点前 写英文带查重，B3 一份红隼
+258315153	https://www.eeo.cn/s/a/?cid=258315153	mdba*****rist.edu online classroom	Teacher: mdba*****rist.edu.ph	FOODTEC 4 BSIT-FT2A
+258315211	https://www.eeo.cn/s/a/?cid=258315211	paulynpancipan*****ail.c online classroom	Teacher: paulynpancipan*****ail.c	Judelyn Talk 915
+258315233	https://www.eeo.cn/s/a/?cid=258315233	Teacher Mariel Ann online classroom	Teacher: marielanntnugu*****ail.c	kitty9辽宁 * Class-Teacher Mariel
+258315285	https://www.eeo.cn/s/a/?cid=258315285	857****99 online classroom	Teacher: 857****99	demo
+258315287	https://www.eeo.cn/s/a/?cid=258315287	Rose	Teacher: bolalinmaryros*****ail.c	Sophia Classroom
+258315315	https://www.eeo.cn/s/a/?cid=258315315	CIVN HR	Teacher: Jolie Thuong NGUYEN	Le Uyen Nhi_Content Specialist
+258315325	https://www.eeo.cn/s/a/?cid=258315325	Clarice Tracey	Teacher: 999****649	Yuri 13

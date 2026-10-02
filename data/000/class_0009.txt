@@ -1,4 +1,3 @@
-252980923	https://www.eeo.cn/s/a/?cid=252980923	nada ahmed online classroom	Teacher: 112****318	nada
 252980963	https://www.eeo.cn/s/a/?cid=252980963	Zacy online classroom	Teacher: ha05032*****ail.com	Demo Kid
 252981045	https://www.eeo.cn/s/a/?cid=252981045	Ms Trinh Hang online classroom	Teacher: hangtrinh28*****ail.com	Vuihoc2023
 252981161	https://www.eeo.cn/s/a/?cid=252981161	Tr.Walaa Qassas online classroom	Teacher: walaa.19912*****ail.com	Ali
@@ -1198,3 +1197,4 @@
 253038899	https://www.eeo.cn/s/a/?cid=253038899	AdvancedPhD顶博教育	Teacher: 130****2131	20231228 紧急单
 253038907	https://www.eeo.cn/s/a/?cid=253038907	Jane Marie-6 online classroom	Teacher: 951****606	Sam 12.28
 253038949	https://www.eeo.cn/s/a/?cid=253038949	Chen Chloe online classroom	Teacher: 346****938	clo’s class
+253038959	https://www.eeo.cn/s/a/?cid=253038959	高校教辅联盟	Teacher: 老王	樂咿～任艺老师对接群

@@ -1,13 +1,3 @@
-256292321	https://www.eeo.cn/s/a/?cid=256292321	海外同步课程辅导平台	Teacher: Linda	黄梓轩-生物-王老师
-256292355	https://www.eeo.cn/s/a/?cid=256292355	tr.winpapaaung*****ail.c online classroom	Teacher: tr.winpapaaung*****ail.c	Mrs.Amanda class
-256292381	https://www.eeo.cn/s/a/?cid=256292381	Teacher Vanessa online classroom	Teacher: 991****333	Tony's Class Feb 2024
-256292483	https://www.eeo.cn/s/a/?cid=256292483	Tr. Jen online classroom	Teacher: otjennife*****ail.com	Jen
-256292487	https://www.eeo.cn/s/a/?cid=256292487	Teacher Sheen online classroom	Teacher: 968****767	jack
-256292501	https://www.eeo.cn/s/a/?cid=256292501	Teacher Nica online classroom	Teacher: 969****748	Otto7
-256292535	https://www.eeo.cn/s/a/?cid=256292535	Gaddiel Jian online classroom	Teacher: gaddielvillanueva*****ai	Practice Class
-256292551	https://www.eeo.cn/s/a/?cid=256292551	Teacher Loren 3 online classroom	Teacher: joealcid*****ail.com	Nick 02/22/2024
-256292573	https://www.eeo.cn/s/a/?cid=256292573	Teacher Fie online classroom	Teacher: 921****228	Betty 2024
-256292581	https://www.eeo.cn/s/a/?cid=256292581	DSL VIP Class online classroom	Teacher: 975****831	SARAH LUCKY VIP
 256292669	https://www.eeo.cn/s/a/?cid=256292669	dardelav*****ail.com online classroom	Teacher: dardelav*****ail.com	Candy 1C
 256292751	https://www.eeo.cn/s/a/?cid=256292751	Teacher online classroom	Teacher: fifidelav*****hoo.com	Candy 1C
 256292759	https://www.eeo.cn/s/a/?cid=256292759	Noverly.2 online classroom	Teacher: 923****164	Lilou and Nina 2/22 -1
@@ -1198,3 +1188,13 @@
 256348857	https://www.eeo.cn/s/a/?cid=256348857	Chelle online classroom	Teacher: 938****641	Class for Jenny
 256348865	https://www.eeo.cn/s/a/?cid=256348865	Hk中文普通話	Teacher: 136****3462	錄一2pm230pm30min简体tb1451
 256348951	https://www.eeo.cn/s/a/?cid=256348951	Phuong Uyen online classroom	Teacher: 908****10	Placement Test (demo)
+256348983	https://www.eeo.cn/s/a/?cid=256348983	Jo online classroom	Teacher: jojo0702*****ail.com	jo
+256349005	https://www.eeo.cn/s/a/?cid=256349005	Amz online classroom	Teacher: 985****033	Eloise2
+256349281	https://www.eeo.cn/s/a/?cid=256349281	天生慧作文	Teacher: 魔镜	魔镜【24春】二年级5:30-7:00
+256349463	https://www.eeo.cn/s/a/?cid=256349463	芝麻街英语	Teacher: 经开Annie孙冰艳	经开 N1-002
+256349595	https://www.eeo.cn/s/a/?cid=256349595	Teacher Thonie online classroom	Teacher: 963****319	NA 2024
+256349619	https://www.eeo.cn/s/a/?cid=256349619	贝塔编程	Teacher: 王艺臻	周六13:30领航提高班（王艺臻）
+256349683	https://www.eeo.cn/s/a/?cid=256349683	HappyTeaching	Teacher: Rag	Emma
+256349765	https://www.eeo.cn/s/a/?cid=256349765	Teacher Moore online classroom	Teacher: 930****814	Bunny 17
+256349807	https://www.eeo.cn/s/a/?cid=256349807	Teacher Chicky online classroom	Teacher: 926****717	Anna's Class
+256349921	https://www.eeo.cn/s/a/?cid=256349921	mercadoshirley*****hoo.c online classroom	Teacher: mercadoshirley*****hoo.c	tiger

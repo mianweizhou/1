@@ -451,7 +451,6 @@
 252541591	https://www.eeo.cn/s/a/?cid=252541591	一灿教育	Teacher: 马鹏振	西美马老师补课
 252541653	https://www.eeo.cn/s/a/?cid=252541653	Jundel	Teacher: 930****140	Miller
 252541665	https://www.eeo.cn/s/a/?cid=252541665	Studio Education	Teacher: Vera Zhang	Emo LUO's online assessment
-252541707	https://www.eeo.cn/s/a/?cid=252541707	华文驿站	Teacher: 132****6027	扬州蓁蓁的中文课
 252541719	https://www.eeo.cn/s/a/?cid=252541719	Teacher Jonn online classroom	Teacher: 906****106	Interview with Kate
 252541739	https://www.eeo.cn/s/a/?cid=252541739	Nikita online classroom	Teacher: 718****66	Class with Elsa
 252541869	https://www.eeo.cn/s/a/?cid=252541869	Shaira online classroom	Teacher: 910****564	Summer's Class
@@ -1198,3 +1197,4 @@
 252576157	https://www.eeo.cn/s/a/?cid=252576157	Cess online classroom	Teacher: 967****743	Peach
 252576275	https://www.eeo.cn/s/a/?cid=252576275	Jane Marie-8 online classroom	Teacher: 939****237	Bryan-demo class
 252576309	https://www.eeo.cn/s/a/?cid=252576309	Online Teacher Connie online classroom	Teacher: 772****707	Mike (December)
+252576313	https://www.eeo.cn/s/a/?cid=252576313	Jane Marie-8 online classroom	Teacher: 939****237	Bruce-demo class

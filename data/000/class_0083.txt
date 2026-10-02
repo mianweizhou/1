@@ -1,13 +1,3 @@
-257365809	https://www.eeo.cn/s/a/?cid=257365809	Teacher Kim	Teacher: 953****631	George7
-257365819	https://www.eeo.cn/s/a/?cid=257365819	Teacher Ana online classroom	Teacher: 916****653	Teacher Ana - Erlyn
-257365851	https://www.eeo.cn/s/a/?cid=257365851	Deamon_Kurtz online classroom	Teacher: 937****04	Cathy
-257365955	https://www.eeo.cn/s/a/?cid=257365955	Teacher Dale online classroom	Teacher: 922****685	Freetalk 3
-257366023	https://www.eeo.cn/s/a/?cid=257366023	Teacher Salin online classroom	Teacher: 601****08	Sunny
-257366077	https://www.eeo.cn/s/a/?cid=257366077	Maria-Kashif online classroom	Teacher: maria.saleem*****hoo.com	English Lesson
-257366101	https://www.eeo.cn/s/a/?cid=257366101	robledodesire*****ail.co online classroom	Teacher: robledodesire*****ail.co	Monday
-257366111	https://www.eeo.cn/s/a/?cid=257366111	975650980chien online classroom	Teacher: 975****80	l
-257366123	https://www.eeo.cn/s/a/?cid=257366123	Teacher Halee online classroom	Teacher: wifamilyo*****ail.com	Elsa (Grandparents Home Classroom)
-257366155	https://www.eeo.cn/s/a/?cid=257366155	Kate online classroom	Teacher: kate.amielina.19*****ail	Oliver
 257366179	https://www.eeo.cn/s/a/?cid=257366179	TEACHER SIEW ❤️ online classroom	Teacher: siewlianlee*****ail.com	BECKEY 🇹🇼
 257366229	https://www.eeo.cn/s/a/?cid=257366229	RB Online Tutorial Services	Teacher: 995****653	Alex
 257366301	https://www.eeo.cn/s/a/?cid=257366301	Meera online classroom	Teacher: vinnimee*****ail.com	mera
@@ -1198,3 +1188,13 @@
 257424847	https://www.eeo.cn/s/a/?cid=257424847	Mike	Teacher: 664***02	11.3. Max
 257424861	https://www.eeo.cn/s/a/?cid=257424861	满分教育	Teacher: 188****7616	新疆乌鲁木齐高一戚健宇1V1
 257424869	https://www.eeo.cn/s/a/?cid=257424869	ZY online classroom	Teacher: gutierrezzyd*****ail.com	Dick 80/100
+257424925	https://www.eeo.cn/s/a/?cid=257424925	ABCD	Teacher: Teacher Lu	21-alex7 class
+257424967	https://www.eeo.cn/s/a/?cid=257424967	Miss Anna online classroom	Teacher: ronaldosuiiiii5*****ail.	Linda's Class 18
+257424971	https://www.eeo.cn/s/a/?cid=257424971	满分教育	Teacher: 188****7616	1新疆乌鲁木齐高三冯文宏1V1
+257425021	https://www.eeo.cn/s/a/?cid=257425021	满分教育	Teacher: 188****7616	新疆乌鲁木齐高二冯诗晴1V1
+257425035	https://www.eeo.cn/s/a/?cid=257425035	Mary online classroom	Teacher: 967****984	Elaine Class
+257425049	https://www.eeo.cn/s/a/?cid=257425049	Van	Teacher: 965****737	Yoyo
+257425099	https://www.eeo.cn/s/a/?cid=257425099	esl company	Teacher: 965****200	Melody IELTS CLASS
+257425105	https://www.eeo.cn/s/a/?cid=257425105	满分教育	Teacher: 188****7616	天津高一张凯麟1V1
+257425129	https://www.eeo.cn/s/a/?cid=257425129	enmanuelmontaner9*****ai online classroom	Teacher: enmanuelmontaner9*****ai	Kyle
+257425181	https://www.eeo.cn/s/a/?cid=257425181	Sharmilla online classroom	Teacher: 179****16	Andy's English Lesson

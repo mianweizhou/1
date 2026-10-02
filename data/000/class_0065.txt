@@ -1,13 +1,3 @@
-256408179	https://www.eeo.cn/s/a/?cid=256408179	Law Shen online classroom	Teacher: 909****124	FISH(1)
-256408217	https://www.eeo.cn/s/a/?cid=256408217	Teacher Chen 11 (#486) online classroom	Teacher: 908****486	Kun kun 11( (486)
-256408273	https://www.eeo.cn/s/a/?cid=256408273	Teacher Chen 11 (#486) online classroom	Teacher: 908****486	Merrick 11 (486)
-256408291	https://www.eeo.cn/s/a/?cid=256408291	PI FOR MOT	Teacher: 文宇老师	【24春】四年级新生入学测评2月28日备用群
-256408299	https://www.eeo.cn/s/a/?cid=256408299	Galaxy	Teacher: 夏天	James
-256408337	https://www.eeo.cn/s/a/?cid=256408337	liza online classroom	Teacher: 977****418	EITO- class
-256408363	https://www.eeo.cn/s/a/?cid=256408363	Studio Education	Teacher: Jessie HU	Attica's online class
-256408451	https://www.eeo.cn/s/a/?cid=256408451	liza online classroom	Teacher: 915****701	HERMAN-March-June class
-256408553	https://www.eeo.cn/s/a/?cid=256408553	LET'S GO ENGLISH	Teacher: 964****386	Ileana
-256408571	https://www.eeo.cn/s/a/?cid=256408571	Teacher Cath 5 online classroom	Teacher: gloriallander*****ail.co	Elsa5992_class
 256408607	https://www.eeo.cn/s/a/?cid=256408607	Galaxy	Teacher: Teacher Carly	zoe7
 256408647	https://www.eeo.cn/s/a/?cid=256408647	vileganojoy*****ail.com online classroom	Teacher: vileganojoy*****ail.com	Practice Demo
 256408701	https://www.eeo.cn/s/a/?cid=256408701	Oral English Training Camp	Teacher: Teacher J	H3-Angela
@@ -1198,3 +1188,13 @@
 256477299	https://www.eeo.cn/s/a/?cid=256477299	拿云工作室	Teacher: 拿云课程老师	A5--拿云
 256477347	https://www.eeo.cn/s/a/?cid=256477347	ABCD	Teacher: Teacher Lu	6-Cindy6 classroom
 256477399	https://www.eeo.cn/s/a/?cid=256477399	Emma Wang online classroom	Teacher: 170****668	hi
+256477481	https://www.eeo.cn/s/a/?cid=256477481	Kamilah online classroom	Teacher: 928****244	JEL
+256477587	https://www.eeo.cn/s/a/?cid=256477587	Ms. Chez online classroom	Teacher: frmcasano*****ail.com	FAYE
+256477755	https://www.eeo.cn/s/a/?cid=256477755	榧木星球	Teacher: 陈醉	猫猫-1V1
+256477939	https://www.eeo.cn/s/a/?cid=256477939	Jocelyn Online Class	Teacher: 916****477	Rache
+256477953	https://www.eeo.cn/s/a/?cid=256477953	上海市甘泉外国语中学	Teacher: 陈艳艳	班级小盒子
+256478235	https://www.eeo.cn/s/a/?cid=256478235	Hannah's Tutorial Class	Teacher: 921****021	Anna8Z's Class
+256478281	https://www.eeo.cn/s/a/?cid=256478281	Hannah's Tutorial Class	Teacher: 921****021	Jackson5Z's Class
+256478363	https://www.eeo.cn/s/a/?cid=256478363	Hannah's Tutorial Class	Teacher: 921****021	Joy6L's Class
+256478395	https://www.eeo.cn/s/a/?cid=256478395	Hannah's Tutorial Class	Teacher: 921****021	Jun6's Class
+256478469	https://www.eeo.cn/s/a/?cid=256478469	Hannah's Tutorial Class	Teacher: 921****021	Robby10S's Class

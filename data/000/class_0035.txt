@@ -1,9 +1,3 @@
-254553375	https://www.eeo.cn/s/a/?cid=254553375	Higher Study	Teacher: 王伟	圳颖补课
-254553383	https://www.eeo.cn/s/a/?cid=254553383	一起来学习	Teacher: 0293	Daniel 北京/白雪公主
-254553419	https://www.eeo.cn/s/a/?cid=254553419	yergen Crocker online classroom	Teacher: 672****77	parkins
-254553441	https://www.eeo.cn/s/a/?cid=254553441	Nikita online classroom	Teacher: 718****66	Class with Elsa 2
-254553517	https://www.eeo.cn/s/a/?cid=254553517	Teacher beth new class online classroom	Teacher: claudesung*****ail.com	Jon - Jan. 2024
-254553519	https://www.eeo.cn/s/a/?cid=254553519	Nhuha online classroom	Teacher: 914****66	PTS 1 - 1
 254553637	https://www.eeo.cn/s/a/?cid=254553637	The eastbridge school	Teacher: 915****405	Zeph and BFFs
 254553641	https://www.eeo.cn/s/a/?cid=254553641	Teacher Mhae :) online classroom	Teacher: 955****287	Regular Class with Nancy
 254553691	https://www.eeo.cn/s/a/?cid=254553691	Teacher Richard	Teacher: 779****576	Cici 22.1.24
@@ -1198,3 +1192,9 @@
 254608115	https://www.eeo.cn/s/a/?cid=254608115	Teacher Shelle online classroom	Teacher: 915****686	demo
 254608147	https://www.eeo.cn/s/a/?cid=254608147	【正常】杭州青少年活动中心	Teacher: 钟诗怡	W1C01-1插画创作
 254608167	https://www.eeo.cn/s/a/?cid=254608167	A1145号沼气行星发动机专属企业	Teacher: 651****98	理查德城堡塔楼
+254608313	https://www.eeo.cn/s/a/?cid=254608313	【正常】杭州青少年活动中心	Teacher: 郭子涵	W1C02-1马克笔
+254608423	https://www.eeo.cn/s/a/?cid=254608423	【正常】杭州青少年活动中心	Teacher: 郭子涵	W1C03-1马克笔
+254608445	https://www.eeo.cn/s/a/?cid=254608445	Teacher Ron online classroom	Teacher: 998****318	VIP Alice
+254608465	https://www.eeo.cn/s/a/?cid=254608465	点石教育	Teacher: 黄军	张晨洋物理一对一专属课堂
+254608483	https://www.eeo.cn/s/a/?cid=254608483	Magic Park	Teacher: 961****720	EmmaJS
+254608611	https://www.eeo.cn/s/a/?cid=254608611	行知青藤英领院	Teacher: 186****6657	孙老师1V3 IC笔试

@@ -1,10 +1,3 @@
-255081627	https://www.eeo.cn/s/a/?cid=255081627	Fighting自习室	Teacher: 韩嘉欣	初三
-255081651	https://www.eeo.cn/s/a/?cid=255081651	0063-9151910275 online classroom	Teacher: 915****275	Kiki
-255081671	https://www.eeo.cn/s/a/?cid=255081671	0063-9151910275 online classroom	Teacher: 915****275	Kimi
-255081675	https://www.eeo.cn/s/a/?cid=255081675	1v1教育	Teacher: 康康	常峰瑞G3试听课
-255081725	https://www.eeo.cn/s/a/?cid=255081725	Ire's VerbalBoost	Teacher: 975****344	Mickey's Classroom
-255081727	https://www.eeo.cn/s/a/?cid=255081727	韩丽老师的工作室	Teacher: 钱老师	六年级春周三晚数学课
-255081777	https://www.eeo.cn/s/a/?cid=255081777	课堂在线	Teacher: Julia1.30充值600	小方英语
 255081793	https://www.eeo.cn/s/a/?cid=255081793	Teacher Han	Teacher: haniespanto5*****ail.com	tri
 255081871	https://www.eeo.cn/s/a/?cid=255081871	talking	Teacher: 182****6025	Betty&Jenny-literature(Ainsley)
 255081895	https://www.eeo.cn/s/a/?cid=255081895	Noel Joubert	Teacher: 820****98	Emily
@@ -1198,3 +1191,10 @@
 255135825	https://www.eeo.cn/s/a/?cid=255135825	WeIP Education	Teacher: Ms Vivian	F2 BMP
 255135847	https://www.eeo.cn/s/a/?cid=255135847	Teacher Raya online classroom	Teacher: 950****046	Teacher Raya First demo
 255135899	https://www.eeo.cn/s/a/?cid=255135899	willemschoeman0*****ail. online classroom	Teacher: willemschoeman0*****ail.	Training
+255135965	https://www.eeo.cn/s/a/?cid=255135965	T Janice online classroom	Teacher: 935****058	Barry Lesson 2-14
+255136047	https://www.eeo.cn/s/a/?cid=255136047	Sir Stephen online classroom	Teacher: 946****579	Science 3 and 4
+255136077	https://www.eeo.cn/s/a/?cid=255136077	Lea White online classroom	Teacher: 752****564	class 185/1 (31/01/24) Lucy
+255136079	https://www.eeo.cn/s/a/?cid=255136079	0063-9664052345 online classroom	Teacher: 966****345	XUANXUAN 2024
+255136117	https://www.eeo.cn/s/a/?cid=255136117	Kim D online classroom	Teacher: kimdinoy*****ail.com	Hanny
+255136159	https://www.eeo.cn/s/a/?cid=255136159	Nels online classroom	Teacher: 948****838	My Nemo and Mark
+255136307	https://www.eeo.cn/s/a/?cid=255136307	대치코칭센터	Teacher: 박주경	고3 영어모의고사

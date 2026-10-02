@@ -1,13 +1,3 @@
-257113771	https://www.eeo.cn/s/a/?cid=257113771	Teacher Ash	Teacher: 614***00	W2 - L13 - Government Rules#3
-257113777	https://www.eeo.cn/s/a/?cid=257113777	Marcus Chiang Mai	Teacher: 620****29	ChengCheng March 6th
-257113779	https://www.eeo.cn/s/a/?cid=257113779	Mastery	Teacher: 933****00	H5 CLASS - LEVEL
-257113781	https://www.eeo.cn/s/a/?cid=257113781	进击的草履虫 online classroom	Teacher: 562***91	诶嘿
-257113853	https://www.eeo.cn/s/a/?cid=257113853	Chip online classroom	Teacher: 964****15	3a1
-257113953	https://www.eeo.cn/s/a/?cid=257113953	꧁༺DUYKHANH ²⁰¹³༻꧂ online classroom	Teacher: 982****85	ok
-257113961	https://www.eeo.cn/s/a/?cid=257113961	Happy Guangzhou online classroom	Teacher: 960****859	Cindy
-257113963	https://www.eeo.cn/s/a/?cid=257113963	Teacher Syrin online classroom	Teacher: 967****785	Gray’s 55 Class
-257114007	https://www.eeo.cn/s/a/?cid=257114007	Teacher Nikko online classroom	Teacher: judyandlouis*****ail.com	Judy and Louis Exlucsive Class
-257114041	https://www.eeo.cn/s/a/?cid=257114041	TEACHER MAY-ANN - DEREK online classroom	Teacher: derekk*****tlook.com	TEACHER MAY-ANN - DEREK
 257114055	https://www.eeo.cn/s/a/?cid=257114055	stander.kaylei*****ail.c online classroom	Teacher: stander.kaylei*****ail.c	Bobby-Kayleigh
 257114057	https://www.eeo.cn/s/a/?cid=257114057	English with Teacher Danica	Teacher: Teacher Danica	[M] Daniel
 257114113	https://www.eeo.cn/s/a/?cid=257114113	Teacher Joseph online classroom	Teacher: josephrhyansulbo*****ail	WU
@@ -1198,3 +1188,13 @@
 257163219	https://www.eeo.cn/s/a/?cid=257163219	高校教辅联盟	Teacher: 老王	哦哦哦～谢老师对接群
 257163225	https://www.eeo.cn/s/a/?cid=257163225	线上1v1	Teacher: 班主任-玥玥老师	蒋恩怡+初二英语+正式课+玥玥老师
 257163279	https://www.eeo.cn/s/a/?cid=257163279	irishbudlayanmedte*****a online classroom	Teacher: irishbudlayanmedte*****a	Flower
+257163285	https://www.eeo.cn/s/a/?cid=257163285	Teacher Jooh online classroom	Teacher: 950****101	Vicky's class (3-7-24)
+257163293	https://www.eeo.cn/s/a/?cid=257163293	Teacher Rui online classroom	Teacher: minyv12*****ail.com	Phoebe's Class
+257163313	https://www.eeo.cn/s/a/?cid=257163313	广州清北培优咨询服务有限公司	Teacher: 陈华	陈老师24春七下数学周四18:30
+257163329	https://www.eeo.cn/s/a/?cid=257163329	Margie Aubree online classroom	Teacher: 916****879	nhb
+257163339	https://www.eeo.cn/s/a/?cid=257163339	0063-9750521612 online classroom	Teacher: 975****612	March Peter
+257163341	https://www.eeo.cn/s/a/?cid=257163341	环球博学	Teacher: 186****9988	三年级勤思
+257163353	https://www.eeo.cn/s/a/?cid=257163353	Vuong Tieu Yen online classroom	Teacher: 798****39	Demo
+257163363	https://www.eeo.cn/s/a/?cid=257163363	Flinky online classroom	Teacher: 960****194	Daisy's classes
+257163399	https://www.eeo.cn/s/a/?cid=257163399	LiveDream	Teacher: 陈老师	24春周四刷题班-陈
+257163411	https://www.eeo.cn/s/a/?cid=257163411	广州清北培优咨询服务有限公司	Teacher: 陈华	陈老师24春七下数学周五18:00

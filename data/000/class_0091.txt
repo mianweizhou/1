@@ -1,13 +1,3 @@
-257853701	https://www.eeo.cn/s/a/?cid=257853701	翼鸥集团	Teacher: EEO学习助手	用户体验设计中心
-257853727	https://www.eeo.cn/s/a/?cid=257853727	EARIST	Teacher: Sheila Marie M. Matias	SOFTENG2 BSCS 3A
-257853785	https://www.eeo.cn/s/a/?cid=257853785	ENGLISH CLASS	Teacher: Monica	Hanna,Becca
-257853817	https://www.eeo.cn/s/a/?cid=257853817	EARIST	Teacher: Sheila Marie M. Matias	SOFENGLA BSCS 3A
-257853835	https://www.eeo.cn/s/a/?cid=257853835	Quang Huy online classroom	Teacher: huynq210220*****ail.com	abc
-257853873	https://www.eeo.cn/s/a/?cid=257853873	nguyenhaanh2005*****ail. online classroom	Teacher: nguyenhaanh2005*****ail.	Lớp Demo
-257853911	https://www.eeo.cn/s/a/?cid=257853911	LET'S GO ENGLISH	Teacher: 950****855	Uny
-257853945	https://www.eeo.cn/s/a/?cid=257853945	EARIST	Teacher: Sheila Marie M. Matias	SOFENGLA BSCS 3B
-257853983	https://www.eeo.cn/s/a/?cid=257853983	KYLE	Teacher: Kyle	Med Lab's Learning Assisted Course
-257854005	https://www.eeo.cn/s/a/?cid=257854005	EARIST	Teacher: Sheila Marie M. Matias	CSINTERN BSCS 4A
 257854013	https://www.eeo.cn/s/a/?cid=257854013	Roselyn_Dagani online classroom	Teacher: rsdagani*****ail.com	Demo Lesson
 257854023	https://www.eeo.cn/s/a/?cid=257854023	Chrissa online classroom	Teacher: 955****923	yoyo
 257854045	https://www.eeo.cn/s/a/?cid=257854045	天工教育	Teacher: 赵天昊	高三数学
@@ -1198,3 +1188,13 @@
 257899655	https://www.eeo.cn/s/a/?cid=257899655	明来童趣	Teacher: 133****1843	201-Max
 257899827	https://www.eeo.cn/s/a/?cid=257899827	北京市东城区史家胡同小学	Teacher: 杜欣月	史家教育集团道德与法治教研组
 257899883	https://www.eeo.cn/s/a/?cid=257899883	maeenter*****ail.com online classroom	Teacher: maeenter*****ail.com	Ryan
+257899917	https://www.eeo.cn/s/a/?cid=257899917	树人元宇宙教育咨询有限公司	Teacher: 周芷薇	会议3
+257899983	https://www.eeo.cn/s/a/?cid=257899983	Dwaine's Academy	Teacher: 278***7	Peter's 7th Class - Grammar
+257900021	https://www.eeo.cn/s/a/?cid=257900021	Mike online classroom	Teacher: 779***00	Kerr Raz Book
+257900079	https://www.eeo.cn/s/a/?cid=257900079	Mike online classroom	Teacher: 779***00	Neo odi book
+257900153	https://www.eeo.cn/s/a/?cid=257900153	Seven英文工作室	Teacher: Seven老师	Olivia小课堂
+257900261	https://www.eeo.cn/s/a/?cid=257900261	Teacher Ace online classroom	Teacher: 950****717	PEPPA'S CLASS
+257900347	https://www.eeo.cn/s/a/?cid=257900347	Raven Pulanco online classroom	Teacher: 992****620	GRADE 3 CLASS
+257900549	https://www.eeo.cn/s/a/?cid=257900549	Wajahat (瓦扎哈) online classroom	Teacher: 324****845	Friends and Family : Charlotte
+257900683	https://www.eeo.cn/s/a/?cid=257900683	TSD Inc.	Teacher: Technical Solutions	Lê Châu Test
+257900693	https://www.eeo.cn/s/a/?cid=257900693	教师研习社线上中心	Teacher: ClassIn官方支持	高报干货分享

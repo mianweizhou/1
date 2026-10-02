@@ -1,13 +1,3 @@
-255951385	https://www.eeo.cn/s/a/?cid=255951385	无老师	Teacher: 孙小茗	佳桐&彦南 1v2 网络课
-255951431	https://www.eeo.cn/s/a/?cid=255951431	Teacher Helen online classroom	Teacher: lhenmcallue*****ail.com	iya & derlyn
-255951435	https://www.eeo.cn/s/a/?cid=255951435	Teacher Jen online classroom	Teacher: riginepabutawan9*****ail	zaiden
-255951481	https://www.eeo.cn/s/a/?cid=255951481	Teacher Jen online classroom	Teacher: riginepabutawan9*****ail	Zaiden
-255951513	https://www.eeo.cn/s/a/?cid=255951513	Loren online classroom	Teacher: lorrainelancita*****ail.	loren
-255951627	https://www.eeo.cn/s/a/?cid=255951627	Teacher Fete online classroom	Teacher: 960****050	Hooray's Class
-255951671	https://www.eeo.cn/s/a/?cid=255951671	Teacher Fete online classroom	Teacher: 960****050	Carrie's Class
-255951675	https://www.eeo.cn/s/a/?cid=255951675	Teacher Matthew online classroom	Teacher: joncicmati*****ail.com	theodore
-255951725	https://www.eeo.cn/s/a/?cid=255951725	Teacher Matthew online classroom	Teacher: joncicmati*****ail.com	Eva
-255951807	https://www.eeo.cn/s/a/?cid=255951807	Huba Rana online classroom	Teacher: 514****548	Twin Feb Class 2024
 255951845	https://www.eeo.cn/s/a/?cid=255951845	0063-9163486279 online classroom	Teacher: 916****279	Steven’s Class
 255951895	https://www.eeo.cn/s/a/?cid=255951895	沈家班书法	Teacher: 石头老师	24年10级楷书
 255951965	https://www.eeo.cn/s/a/?cid=255951965	Teacher Matthew online classroom	Teacher: joncicmati*****ail.com	Bruce
@@ -1198,3 +1188,13 @@
 256039231	https://www.eeo.cn/s/a/?cid=256039231	anja.jovannovi*****ail.c online classroom	Teacher: anja.jovannovi*****ail.c	Cornelia
 256039333	https://www.eeo.cn/s/a/?cid=256039333	angelarangasa*****ail.co online classroom	Teacher: angelarangasa*****ail.co	cvzdfa
 256039485	https://www.eeo.cn/s/a/?cid=256039485	NadEduc	Teacher: 926****241	Shiwen
+256039513	https://www.eeo.cn/s/a/?cid=256039513	NadEduc	Teacher: 926****241	Hebe
+256039605	https://www.eeo.cn/s/a/?cid=256039605	陕西省西咸新区秦汉中学	Teacher: 初三12班	12班
+256039855	https://www.eeo.cn/s/a/?cid=256039855	Teacher Michelle online classroom	Teacher: 948****365	Open Class
+256040237	https://www.eeo.cn/s/a/?cid=256040237	Jane Marie-8 online classroom	Teacher: 939****237	Garan 2.19
+256040555	https://www.eeo.cn/s/a/?cid=256040555	Jeany online classroom	Teacher: 965****793	Allan
+256040883	https://www.eeo.cn/s/a/?cid=256040883	EV英语阅读沙龙	Teacher: EV英语 Emma老师	补课
+256041061	https://www.eeo.cn/s/a/?cid=256041061	要通过	Teacher: 185****7707	好的呢
+256041079	https://www.eeo.cn/s/a/?cid=256041079	Teacher Arzen online classroom	Teacher: arzendon*****ail.com	7th
+256041085	https://www.eeo.cn/s/a/?cid=256041085	武汉为学	Teacher: 刘文娟	章智旻
+256041157	https://www.eeo.cn/s/a/?cid=256041157	Teacher Joana online classroom	Teacher: 966****768	08:30 Emily6523
