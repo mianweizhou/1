@@ -56,7 +56,6 @@ def format_time(seconds):
     return f"{h}h {m}m"
 
 
-# 🚨 修复: 补回了遗漏的 USER_AGENTS 列表
 USER_AGENTS = [
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -257,7 +256,7 @@ async def async_process_worker(process_id, cid_chunk, concurrency, deadline, sha
                     if not (class_name in invalid_marks and school in invalid_marks):
                         line = f"{cid}\thttps://www.eeo.cn/s/a/?cid={cid}\t{school}\t{teacher}\t{class_name}\n"
                         results.append(line)
-                        print(f"✅ [满血解析] P{process_id}-C{coro_id:02d} | {cid} | 🏫 {school} | 🧑‍🏫 {teacher} | 🎓 {class_name}", flush=True)
+                        print(f"✅ [解析] P{process_id}-C{coro_id:02d} | 【cid】{cid} | 【学校】 {school} | 【教师 {teacher} | 班级名 {class_name}", flush=True)
 
                 consecutive_errors = 0
 
@@ -362,8 +361,8 @@ def main():
     chunk_size = (total_tasks + process_count - 1) // process_count
     chunks = [cid_list[i:i + chunk_size] for i in range(0, total_tasks, chunk_size)]
 
-    print(f"🚀 [原生 Playwright 黄金调优版] 启动！全面支持现代前端！", flush=True)
-    print(f"⚙️ 分配: {process_count}核 ✕ 每核 {coros_per_process} 并发 = {process_count * coros_per_process} 最优并发", flush=True)
+    print(f" 启动", flush=True)
+    print(f"⚙️ 分配: {process_count}核 ✕ 每核 {coros_per_process} 并发 = {process_count * coros_per_process} 总并发", flush=True)
 
     shared_counter = mp.Value('i', 0)
     deadline = time.time() + TIMEOUT_SECONDS - 60
@@ -388,14 +387,14 @@ def main():
                 c = shared_counter.value
 
             if c >= total_tasks:
-                print(f"✅ 任务总计数已到达 {total_tasks}，退出监控", flush=True)
+                print(f" 任务总计数已到达 {total_tasks}，退出监控", flush=True)
                 break
 
             if c > last_c:
                 last_c = c
                 last_c_time = now
             elif now - last_c_time > 180 and c < total_tasks:
-                print(f"\n🚨 [看门狗] 停滞 3 分钟，启动安全收尾...", flush=True)
+                print(f"\n [dog] 停滞 3 分钟，启动安全收尾...", flush=True)
                 break
 
             if now - last_print >= 5:
@@ -410,8 +409,8 @@ def main():
                 mem_used_gb = mem_info.used / (1024 ** 3)
                 mem_total_gb = mem_info.total / (1024 ** 3)
 
-                print(f"\n🔥 [满血监控] 完成: {c}/{total_tasks} ({pct:.2f}%) | ⚡ 极致时速: {speed:.1f} 个/秒 | ⏳ 剩余: {eta}")
-                print(f"🖥️  [物理状态] CPU: {cpu_usage}% | 💾 内存: {mem_used_gb:.1f}GB / {mem_total_gb:.1f}GB\n", flush=True)
+                print(f"\n [监控] 完成: {c}/{total_tasks} ({pct:.2f}%) | 最高时速: {speed:.1f} 个/秒 | 剩余time: {eta}")
+                print(f" [物理状态] CPU: {cpu_usage}% | 💾 内存: {mem_used_gb:.1f}GB / {mem_total_gb:.1f}GB\n", flush=True)
 
                 last_print = now
 
@@ -421,7 +420,7 @@ def main():
             time.sleep(1)
 
     except KeyboardInterrupt:
-        print("\n⚠️ 收到强制中断信号！")
+        print("\n 收到强制中断信号！")
 
     for p in processes:
         p.terminate()
@@ -461,7 +460,7 @@ def main():
                 f.write(f"{cid}\n")
         open(UNFINISHED_FLAG, "w").close()
     else:
-        print("✅ 所有 CID 已完美处理完毕！")
+        print(" 所有 CID 已处理完毕！")
 
     os._exit(0)
 
